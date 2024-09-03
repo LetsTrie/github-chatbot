@@ -1,0 +1,15 @@
+pr_title,pr_url,pr_number,state,author_name,author_url,created_at,updated_at,closed_at,merged_at,assignee_name,assignee_url,requested_reviewers,labels,milestone_title,commit_sha,commit_ref,base_branch,description,review_comments_url,commits_url,statuses_url,pr_author_association
+Fix submit new dabi flow with deleted draft and broken ui for no petitions,https://github.com/jonogon/jonogon-mono/pull/74,74,open,imas234,https://github.com/imas234,2024-09-02T19:55:54Z,2024-09-02T20:24:09Z,,,imas234,https://github.com/imas234,"[{'reviewer_name': 'omranjamal', 'reviewer_url': 'https://github.com/omranjamal'}]",[],,57bd2c934917874708defa1380819f0816d5b01c,sami/fix-breaking-bugs,main,"### Broken UI for no petition 
+In the newly introduced animation of reordering petitions, the assumption was that there would always be petitions to swap between, which resulted in null values being inserted into the petition array by default when the array was empty  or did not have enough items to swap.
+
+**Fix:** check for array size before initiating swap
+
+### Broken submit dabi when there is a soft deleted draft present
+Submit dabi would break after soft deleting an existing draft as it would try to edit and submit that one draft on every subsequent retry when clicking submit dabi
+
+**Fix:** when checking for existing drafts filter our soft deleted ones
+
+### Misc
+- Add ui for no petitions yet
+- Reduce nesting in petition list jsx",https://api.github.com/repos/jonogon/jonogon-mono/pulls/74/comments,https://api.github.com/repos/jonogon/jonogon-mono/pulls/74/commits,https://api.github.com/repos/jonogon/jonogon-mono/statuses/57bd2c934917874708defa1380819f0816d5b01c,CONTRIBUTOR
+handled null petition,https://github.com/jonogon/jonogon-mono/pull/67,67,open,shahnewaz-labib,https://github.com/shahnewaz-labib,2024-08-27T20:14:53Z,2024-09-02T20:23:53Z,,,,,[],[],,c87236e267661a7635629e7f68d9c0eb857119c6,fix-null,main,Closes #66 ,https://api.github.com/repos/jonogon/jonogon-mono/pulls/67/comments,https://api.github.com/repos/jonogon/jonogon-mono/pulls/67/commits,https://api.github.com/repos/jonogon/jonogon-mono/statuses/c87236e267661a7635629e7f68d9c0eb857119c6,CONTRIBUTOR
