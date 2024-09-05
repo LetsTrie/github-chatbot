@@ -1,0 +1,1066 @@
+comment_url,review_id,comment_id,file_path,comment_body,author_login,author_url,created_at,updated_at,pr_url
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741889233,2277153061,1741889233,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,stray console.log remaining here,ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T11:24:43Z,2024-09-03T11:24:44Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742555669,2278276024,1742555669,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#house"")?.getPropertyValue(""border""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:17:42Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742556341,2278276024,1742556341,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#house"")?.getPropertyValue(""background-color""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:18:01Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742556842,2278276024,1742556842,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#chimney"")?.getPropertyValue(""width""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:18:18Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742557126,2278276024,1742557126,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#chimney"")?.getPropertyValue(""height""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:18:27Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742557380,2278276024,1742557380,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#chimney"")?.getPropertyValue(""border""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:18:36Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742557658,2278276024,1742557658,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#chimney"")?.getPropertyValue(""background-color""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:18:44Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742557961,2278276024,1742557961,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#decor"")?.getPropertyValue(""width""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:18:55Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742558219,2278276024,1742558219,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#decor"")?.getPropertyValue(""height""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:19:05Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742558473,2278276024,1742558473,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#decor"")?.getPropertyValue(""border""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:19:14Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742558648,2278276024,1742558648,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#decor"")?.getPropertyValue(""background-color""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:19:24Z,2024-09-03T19:27:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742558916,2278276024,1742558916,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window1 = new __helpers.CSSHelp(document).getStyle(""#window-1"")?.getPropertyValue(""width"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:19:36Z,2024-09-03T19:27:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742559257,2278276024,1742559257,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""width"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""width"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:19:52Z,2024-09-03T19:27:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742559580,2278276024,1742559580,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window1 = new __helpers.CSSHelp(document).getStyle(""#window-1"")?.getPropertyValue(""height"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:20:07Z,2024-09-03T19:27:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742559967,2278276024,1742559967,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""height"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""height"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:20:23Z,2024-09-03T19:27:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742576516,2278309461,1742576516,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window1 = new __helpers.CSSHelp(document).getStyle(""#window-1"")?.getPropertyValue(""border"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:33:05Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742576796,2278309461,1742576796,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""border"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""border"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:33:20Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742577187,2278309461,1742577187,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window1 = new __helpers.CSSHelp(document).getStyle(""#window-1"")?.getPropertyValue(""background-color"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:33:36Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742577557,2278309461,1742577557,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""background-color"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""background-color"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:33:52Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742578197,2278309461,1742578197,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window2 = new __helpers.CSSHelp(document).getStyle(""#window-2"")?.getPropertyValue(""width"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:34:18Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742578530,2278309461,1742578530,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""width"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""width"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:34:34Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742578687,2278309461,1742578687,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window2 = new __helpers.CSSHelp(document).getStyle(""#window-2"")?.getPropertyValue(""height"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:34:45Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742578968,2278309461,1742578968,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""height"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""height"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:34:59Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742579779,2278309461,1742579779,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window2 = new __helpers.CSSHelp(document).getStyle(""#window-2"")?.getPropertyValue(""border"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:35:51Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580003,2278309461,1742580003,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""border"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""border"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:36:06Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580367,2278309461,1742580367,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+const window2 = new __helpers.CSSHelp(document).getStyle(""#window-2"")?.getPropertyValue(""background-color"");
+const windows = new __helpers.CSSHelp(document).getStyle(""#window-1, #window-2"")?.getPropertyValue(""background-color"") || new __helpers.CSSHelp(document).getStyle(""#window-2, #window-1"")?.getPropertyValue(""background-color"");
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:36:29Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580618,2278309461,1742580618,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#door"")?.getPropertyValue(""width""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:36:46Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580788,2278309461,1742580788,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#door"")?.getPropertyValue(""height""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:36:58Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742581212,2278309461,1742581212,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#door"")?.getPropertyValue(""border""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:37:29Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742581379,2278309461,1742581379,curriculum/challenges/english/25-front-end-development/lab-house-painting/66d6a7a3e1aa411e94bf2346.md,"```suggestion
+assert(new __helpers.CSSHelp(document).getStyle(""#door"")?.getPropertyValue(""background-color""));
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-03T19:37:40Z,2024-09-03T19:38:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55988
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738035867,2271325697,1738035867,curriculum/challenges/english/25-front-end-development/workshop-rps-game/66cf13fe7619e9a1d57c7b5e.md,"```suggestion
+*Hint*: Don't forget that in the earlier JavaScript fundamentals section, you learned about using `Math.random()` and `Math.floor()`.
+```",Sembauke,https://github.com/Sembauke,2024-08-30T06:40:13Z,2024-08-30T06:42:57Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55957
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738044263,2271337906,1738044263,curriculum/challenges/english/25-front-end-development/workshop-rps-game/66cf33305293e1b35c1aef7f.md,"```suggestion
+Now it’s time to get the results of the round. Complete the `getRoundResults` function.
+```",Sembauke,https://github.com/Sembauke,2024-08-30T06:46:44Z,2024-08-30T07:06:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55957
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738051017,2271337906,1738051017,curriculum/challenges/english/25-front-end-development/workshop-rps-game/66d05da61ff145d7a46fe41b.md,"```suggestion
+In this workshop, you will improve your skills in DOM manipulation and event handling by building a Rock, Paper, Scissors game.
+```",Sembauke,https://github.com/Sembauke,2024-08-30T06:51:42Z,2024-08-30T07:06:12Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55957
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738055571,2271337906,1738055571,curriculum/challenges/english/25-front-end-development/workshop-rps-game/66d05da61ff145d7a46fe41b.md,"```suggestion
+In the first part of the workshop, you will focus on building the functionality that generates a random choice for the computer.
+```",Sembauke,https://github.com/Sembauke,2024-08-30T06:55:14Z,2024-08-30T07:06:12Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55957
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738861710,2272647873,1738861710,curriculum/challenges/english/25-front-end-development/workshop-rps-game/66cf35a75f891ab4f4e5497b.md,"```suggestion
+You should hide the `optionsContainer` if the player or computer has reached three points.
+```",moT01,https://github.com/moT01,2024-08-30T14:57:21Z,2024-08-30T15:41:25Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55957
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738918078,2272647873,1738918078,curriculum/challenges/english/25-front-end-development/workshop-rps-game/66cf35a75f891ab4f4e5497b.md,"```suggestion
+If you try to play the game, you will see that you can play for an infinite amount of rounds. But the rules state that the first one to three points wins. You want to check if there's a winner, and display a message.
+
+In your `showResults` function, if the player has reached three points, update the `winnerMsgElement` to `""Player has won the game!""`. If the computer has reached three points, update the `winnerMsgElement` to `""Computer has won the game!""`.
+
+If there is a winner, show the `resetGameBtn` button by settings it's `display` to `block` and hide the `optionsContainer` by setting it's `display` to `none`.
+```
+
+I struggled with this one a bit, the instructions weren't all that clear to me - I came up with a suggestion.",moT01,https://github.com/moT01,2024-08-30T15:20:30Z,2024-08-30T15:41:25Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55957
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734900362,2266628418,1734900362,client/i18n/locales/english/intro.json,you need to add an intro here like the other workshops have,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T15:29:33Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734904038,2266628418,1734904038,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,this will technically be a review because there are other projects and lectures that tech conditionals before this,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T15:32:09Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734905079,2266628418,1734905079,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,prompt is no longer used in this workshop,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T15:32:50Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734958398,2266628418,1734958398,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,I think this should be expanded to say that the app checks for eligibility based on their income and credit score,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:10:33Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734960424,2266628418,1734960424,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,"Any time we have them use `let` because of reassignment, we should mention that.
+Because in the past, campers didn't always know why they were writing `let` over `const` and they just felt like they were following directions without knowing why. ",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:12:13Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734963055,2266628418,1734963055,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4a9.md,"for here, I don't think we should care that much if they use `const`, `let`, or `var` really.
+I think the only time we should care, is when we need them to reassign values. Then we should specify `let`.
+Otherwise, we should only care that they created the variables. 
+
+The lecture videos will be able to go into depth on when to use `let` and `const` and the differences between them.",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:14:17Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734964860,2266628418,1734964860,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4aa.md,"same here.
+they can use whatever (`var`, `let`, or `const`) to create the variables.
+",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:15:45Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734966184,2266628418,1734966184,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ad.md,we can remove this because remember there are other workshops and labs before this where they practice working with conditionals. ,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:16:53Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734967751,2266628418,1734967751,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ad.md,"also, there are lecture videos that discuss this too. so they won't need the example here",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:18:07Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734975276,2266628418,1734975276,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ad.md,"I don't know if we will need this example either.
+because there will be a lecture video and labs before this where they will learn about logical operators",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:24:10Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734975969,2266628418,1734975969,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ad.md,I feel like step 6 and step 7 could be combined here because campers will have previous practice in earlier projects,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:24:45Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734979360,2266628418,1734979360,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4b5.md,I feel like steps 14 and 15 should be combined,jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:27:26Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734981663,2266628418,1734981663,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4b7.md,"We should make this more flexible because campers will know multiple ways to concatenate strings and variables.
+because technically this should be a valid answer
+
+```js
+`You qualify for the following loan(s):\n\n${loanMessage}`
+
+```
+
+we should update that message to allow for multiple correct answers
+
+",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:29:28Z,2024-08-28T18:23:34Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734983183,2266628418,1734983183,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4b8.md,"same thing here.
+campers should be allowed to input any correct answer.
+we should only check that they got the correct string format.
+how, they choose to concatenate strings, whether it be template literals or `+` operator is up to them",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:30:41Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734987326,2266628418,1734987326,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4b9.md,"We should mention that they need to update the values to pass the test here
+
+maybe something like this
+
+```suggestion
+Now it is time to test out your loan qualification checker. Update the values for the `annualIncome` and `creditScore` variables to see the different loan messages. You can update the values to whatever positive integers you like.
+```",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:34:15Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734988699,2266628418,1734988699,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ba.md,"same here.
+we should update this to account for multiple correct answers for string concatenation.",jdwilkin4,https://github.com/jdwilkin4,2024-08-28T16:35:24Z,2024-08-28T16:36:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1735283401,2267257427,1735283401,client/i18n/locales/english/intro.json,I'm Tobassum a front end dev,tobassum786,https://github.com/tobassum786,2024-08-28T20:58:32Z,2024-08-28T20:58:33Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1735977040,2268352174,1735977040,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4b5.md,I will look into this when I start writing the tests,Ksound22,https://github.com/Ksound22,2024-08-29T10:42:21Z,2024-08-29T10:42:21Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1735984970,2268365373,1735984970,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ba.md,This just checks for that string in particular. It's not concatenating any variable.,Ksound22,https://github.com/Ksound22,2024-08-29T10:49:15Z,2024-08-29T10:49:15Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741107020,2275955238,1741107020,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,"we should explain what a credit score is for people who don't know.
+
+```suggestion
+The app will check whether the user is eligible for a duplex, car, and condo loan based on their annual income and credit score. A credit score is a number that represents how good you are at managing borrowed money.
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:13:50Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741110066,2275955238,1741110066,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(annualIncome, 55000);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:18:51Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741110288,2275955238,1741110288,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba41a77db20a93f9d7a1.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(creditScore, 650);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:19:14Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741112929,2275955238,1741112929,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4a9.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(minIncomeForDuplex, 60000);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:23:42Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741113044,2275955238,1741113044,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4a9.md,"```suggestion
+You should create a `minCreditScoreForDuplex` set to `700`.
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:23:52Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741113269,2275955238,1741113269,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4a9.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(minCreditScoreForDuplex, 700);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:24:14Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741113740,2275955238,1741113740,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4aa.md,"```suggestion
+Create a `minIncomeForCar` and `minCreditScoreForCar` variables. Set them to `30000` and `650` respectively.
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:24:55Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741114260,2275955238,1741114260,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4aa.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(minIncomeForCar, 30000);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:25:44Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741114449,2275955238,1741114449,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4aa.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(minCreditScoreForCar, 650);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:26:05Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741118009,2275955238,1741118009,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ab.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(minIncomeForCondo, 45000);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:32:07Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741118284,2275955238,1741118284,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ab.md,"only use regex test when you have.
+here, you have a better option
+
+```suggestion
+assert.equal(minCreditScoreForCondo, 680);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:32:34Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741120143,2275955238,1741120143,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ac.md,"```suggestion
+When the user is eligible for a loan, you'll want to display a message to them in the console.
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:35:53Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741120635,2275955238,1741120635,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ac.md,"```suggestion
+The `let` keyword is used here because the value of `loanMessage` will change based on the user's eligibility.
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:36:55Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741123420,2275955238,1741123420,curriculum/challenges/english/25-front-end-development/workshop-loan-qualification-checker/66c8ba975ee7230e29f6c4ac.md,"```suggestion
+assert.isString(loanMessage);
+assert.isEmpty(loanMessage);
+```",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T16:41:51Z,2024-09-02T18:17:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741179476,2276055582,1741179476,client/i18n/locales/english/intro.json,"Also, this will need to be moved in the correct spot.
+According to the sheet this should be block 154.
+So replace this 
+
+```md
+ ""nnqa"": { ""title"": ""154"", ""intro"": [] },
+```
+with the intro text for the loan qualification checker",jdwilkin4,https://github.com/jdwilkin4,2024-09-02T18:21:27Z,2024-09-02T18:21:27Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55955
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740902084,2275625391,1740902084,client/src/templates/Challenges/components/assignments.tsx,"False positive, we can ignore this.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-02T13:07:59Z,2024-09-02T13:07:59Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740917902,2275651853,1740917902,client/src/templates/Challenges/components/assignments.tsx,"While we're here, I wasn't sure if `ChallengeHeading` sounded like it meant ""Heading of a challenge"" rather than ""Heading to be used in challenges"".
+
+How about StatusHeading, CompletionHeading or similar? Something that says what it is, rather than where it's used.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-02T13:20:10Z,2024-09-02T13:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740925590,2275651853,1740925590,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,"```suggestion
+                      maxLength={blankAnswers[value].length + 3}
+```
+TS knows what type `value` has because of the conditional returns. Pretty sure it wasn't always this clever, but it is now.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-02T13:26:08Z,2024-09-02T13:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740926226,2275651853,1740926226,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,"```suggestion
+                        value
+```",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-02T13:26:36Z,2024-09-02T13:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740926614,2275651853,1740926614,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,"```suggestion
+                      size={blankAnswers[value].length}
+```",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-02T13:26:53Z,2024-09-02T13:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740936931,2275651853,1740936931,client/src/templates/Challenges/fill-in-the-blank/show.tsx,"Since these aren't used, the css rules in fill-in-the-blank show.css can go.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-02T13:34:45Z,2024-09-02T13:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742095544,2277498660,1742095544,client/src/templates/Challenges/components/assignments.tsx,"This was pre-existing, so I think it's a little outside the scope of this PR - I would prefer to leave it here. I plan on some more refactoring of these, so I can potentially try to change it in another PR. I don't know if I like either of those any better - what about `featureHeading` or `challengeTaskHeading`? To be clear, they are these headings in the challenges:
+
+<details><summary>image</summary>
+
+<img width=""717"" alt=""Screenshot 2024-09-03 at 8 26 07 AM"" src=""https://github.com/user-attachments/assets/d86645ef-3dbc-4c39-95f3-4014bd925206"">
+
+</details>",moT01,https://github.com/moT01,2024-09-03T13:46:29Z,2024-09-03T13:48:00Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742096192,2277499501,1742096192,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,It was sure complaining at me. I'll take another look.,moT01,https://github.com/moT01,2024-09-03T13:46:46Z,2024-09-03T13:46:46Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580569,2278315996,1742580569,client/src/templates/Challenges/fill-in-the-blank/show.tsx,✅ ,moT01,https://github.com/moT01,2024-09-03T19:36:43Z,2024-09-03T19:36:43Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580647,2278316156,1742580647,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,✅ ,moT01,https://github.com/moT01,2024-09-03T19:36:49Z,2024-09-03T19:36:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580729,2278316278,1742580729,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,✅ ,moT01,https://github.com/moT01,2024-09-03T19:36:54Z,2024-09-03T19:36:54Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1742580789,2278316381,1742580789,client/src/templates/Challenges/components/fill-in-the-blanks.tsx,✅ ,moT01,https://github.com/moT01,2024-09-03T19:36:58Z,2024-09-03T19:36:58Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1743394866,2279520164,1743394866,client/src/templates/Challenges/components/assignments.tsx,"No worries, it's not urgent.
+
+As for what to call them, it's just that they don't have anything to do with challenges beyond the fact they're used there. Not a big deal, obviously.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-04T09:32:18Z,2024-09-04T09:32:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55946
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1727617272,2255356374,1727617272,client/src/templates/Challenges/redux/index.js,"```suggestion
+      }
+```
+This semicolon is cause of the CI error.",gikf,https://github.com/gikf,2024-08-22T18:20:53Z,2024-08-22T18:20:53Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55920
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1741637331,2276736664,1741637331,client/src/templates/Challenges/classic/editor.tsx,"```suggestion
+    // Since the description can be resized without React knowing about it, the
+    // zone needs updating in response.
+    const obs = new ResizeObserver(() => updateDescriptionZone());
+```
+Some clarification might help.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-09-03T08:20:17Z,2024-09-03T08:27:34Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55919
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1728633345,2256735061,1728633345,client/src/utils/session-storage.ts,"```suggestion
+// this key stores the last time the progress modal has been shown
+export const setCompletionCountWhenShownProgressModal = () => {
+  const key = 'completion-count-progress-modal';
+  const challengesCompleted = getSessionCompletedChallengesLength();
+  sessionStorage.setItem(key, challengesCompleted.toString());
+};
+
+export const getCompletionCountWhenShownProgressModal = () => {
+  const key = 'completion-count-progress-modal';
+  const storedValue = sessionStorage.getItem(key);
+  const challengesCompleted =
+    storedValue == null ? null : parseInt(storedValue, 10);
+  return challengesCompleted;
+};
+```",ahmaxed,https://github.com/ahmaxed,2024-08-23T08:59:29Z,2024-08-23T08:59:30Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55918
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1720836809,2244153542,1720836809,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,I vote we add a description here on what a leap year actually since some people might not know.,jdwilkin4,https://github.com/jdwilkin4,2024-08-17T21:32:37Z,2024-08-17T21:40:20Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1720836953,2244153542,1720836953,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,"technically this could also be solved with a ternary which they will have learned about before this lab.
+So I vote we update the directions to say they can use an if else or ternary",jdwilkin4,https://github.com/jdwilkin4,2024-08-17T21:34:06Z,2024-08-17T21:40:20Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1720837260,2244153542,1720837260,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,"I think we should leave off the `if` statement part because technically this would be a valid solution
+
+```js
+const year = 2024;
+const isLeapYear = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0;
+console.log(`${year} is ${isLeapYear ? ""a leap year"" : ""not a leap year""}.`);
+
+```",jdwilkin4,https://github.com/jdwilkin4,2024-08-17T21:37:26Z,2024-08-17T21:40:20Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1720848496,2244165132,1720848496,curriculum/challenges/_meta/lab-leap-year-calculator/meta.json,"should be js instead
+
+```suggestion
+  ""helpCategory"": ""JavaScript""
+```",jdwilkin4,https://github.com/jdwilkin4,2024-08-17T23:14:16Z,2024-08-18T00:18:58Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1720852478,2244165132,1720852478,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,Numbers should be in backticks ,jdwilkin4,https://github.com/jdwilkin4,2024-08-17T23:43:27Z,2024-08-18T00:18:58Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1727205063,2254748938,1727205063,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,"@jdwilkin4 
+Is there a way to get what is being printed to the console?
+Or is there a way where we can run the user entered code and then match the results with a value?",zairahira,https://github.com/zairahira,2024-08-22T14:47:58Z,2024-08-22T14:47:59Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1727442589,2255088904,1727442589,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,"As of right now, no. Chai doesn't have a helpful function for that.
+
+The easiest way is to have campers assign the result to the variable and then have them log the variable.
+That still gives them the flexibility of using an if/else or ternary to output the correct string whether it is a leap year or not.",jdwilkin4,https://github.com/jdwilkin4,2024-08-22T16:14:23Z,2024-08-22T16:14:23Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738857665,2272641967,1738857665,client/src/pages/learn/front-end-development/lab-leap-year-calculator/index.md,"```suggestion
+In this lab you will utilize conditional statements and loops to create a leap year calculator.
+```",Sembauke,https://github.com/Sembauke,2024-08-30T14:55:46Z,2024-08-30T15:00:32Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738862757,2272641967,1738862757,curriculum/challenges/english/25-front-end-development/lab-leap-year-calculator/66c06fad3475cd92421b9ac2.md,"```suggestion
+2. Outside the function, declare a variable `year` that stores the value of the year you want to check.
+```",Sembauke,https://github.com/Sembauke,2024-08-30T14:57:43Z,2024-08-30T15:00:32Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55890
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726382729,2253555039,1726382729,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+    <title>Styled To-Do List</title>
+```",Dario-DC,https://github.com/Dario-DC,2024-08-22T05:53:17Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726385338,2253555039,1726385338,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+**Objective:** Fulfill the user stories below and get all the tests to pass to complete the lab.
+```
+Maybe I missed something but I thought that part shouldn't be added in each lab.",Dario-DC,https://github.com/Dario-DC,2024-08-22T05:55:44Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726386787,2253555039,1726386787,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+All of the `input` elements should have an `id`.
+```",Dario-DC,https://github.com/Dario-DC,2024-08-22T05:57:07Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726387138,2253555039,1726387138,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,It's passing on the seed code,Dario-DC,https://github.com/Dario-DC,2024-08-22T05:57:27Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726388223,2253555039,1726388223,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,It's passing on the seed code,Dario-DC,https://github.com/Dario-DC,2024-08-22T05:58:25Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726392086,2253555039,1726392086,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"I would add another tests that says ""You should have four list items in your unordered list.""",Dario-DC,https://github.com/Dario-DC,2024-08-22T06:02:16Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726394085,2253555039,1726394085,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+Each list item should contain an `input` element with the type `checkbox`.
+```
+After adding another hint before this",Dario-DC,https://github.com/Dario-DC,2024-08-22T06:03:38Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726406055,2253555039,1726406055,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"I would reword it for two reasons: the label can be placed before the input, and now you are allowed to pass the test if you put the unordered list before the label.
+
+So if you want the `ul` after the `label` but not necessarily contiguous, the sentence is fine but I would verify that the `ul` comes after the `label`.",Dario-DC,https://github.com/Dario-DC,2024-08-22T06:14:37Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726441529,2253555039,1726441529,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"It does not pass with `a { text-decoration: none}`.
+I would try something different since you are not interested in the selector used to target anchor elements:
+```suggestion
+const links = document.querySelectorAll(""a"");
+[...links].forEach((link) => {
+    assert(getComputedStyle(link).textDecoration.startsWith(""none""));
+});
+```",Dario-DC,https://github.com/Dario-DC,2024-08-22T06:43:57Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1726464002,2253555039,1726464002,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,Shouldn't it be `a:hover`?,Dario-DC,https://github.com/Dario-DC,2024-08-22T07:00:17Z,2024-08-22T07:08:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734723898,2266343315,1734723898,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"@Dario-DC 
+This test didn't work.",zairahira,https://github.com/zairahira,2024-08-28T13:51:46Z,2024-08-28T13:51:47Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734740765,2266371109,1734740765,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"Based on the discussion in the group, i'll leave this here for now.",zairahira,https://github.com/zairahira,2024-08-28T13:58:51Z,2024-08-28T13:58:51Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734741728,2266372941,1734741728,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,done!,zairahira,https://github.com/zairahira,2024-08-28T13:59:18Z,2024-08-28T13:59:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734848468,2266544497,1734848468,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"I have left this hint as it is, but made the test a bit specific:
+
+Now, `label + ul.sub-item` would select all `ul` elements that:
+- Directly follow a `label` element in the DOM.
+- Have the class `sub-item`.",zairahira,https://github.com/zairahira,2024-08-28T14:56:43Z,2024-08-28T14:56:43Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1738801527,2272556465,1738801527,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"I updated the test, but it has room for improvement.",zairahira,https://github.com/zairahira,2024-08-30T14:34:53Z,2024-08-30T14:34:53Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1739266926,2273282471,1739266926,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+**Objective:** Fulfill the user stories below and get all the tests to pass to complete the lab.
+```",moT01,https://github.com/moT01,2024-08-30T18:43:42Z,2024-08-30T19:00:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1739268838,2273282471,1739268838,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+4. You shouldn't apply any list styles to the unordered lists.
+5. Your anchor elements shouldn't have any default text decoration.
+6. You should set the text color of the links to a color of your choice.
+7. When your links are visited, the color should change to another color of your choice.
+8. When your links are hovered over, the color should change to another color of your choice.
+9. When your links are focused, there should be a colored outline around the link.
+10. When your links are clicked, the color should change to another color of your choice.
+```",moT01,https://github.com/moT01,2024-08-30T18:45:20Z,2024-08-30T19:00:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1739273741,2273282471,1739273741,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"```suggestion
+   - A list item with an `anchor` element in it. The `anchor should have the class `sub-item-link`, a valid `href` value, and a `target` value that makes the link open in a new tab.
+```",moT01,https://github.com/moT01,2024-08-30T18:50:30Z,2024-08-30T19:00:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1739282261,2273282471,1739282261,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"These tests all require using the `.sub-item-link` selector. So if I just use `a` or `a.sub-item-link`, the tests don't pass. We should either change the text to specifically say to use the `.sub-item-link` selector (might want to add it to the user stories if we go that route), or make the tests more flexible.",moT01,https://github.com/moT01,2024-08-30T18:59:13Z,2024-08-30T19:00:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1743317164,2279391104,1743317164,curriculum/challenges/english/25-front-end-development/lab-stylized-to-do-list/66c051d13a6a20255a963695.md,"I have made the tests flexible by targeting `a.sub-item-link`, `.sub-item-link`, and `a`.",zairahira,https://github.com/zairahira,2024-09-04T08:40:53Z,2024-09-04T08:40:53Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55886
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1736619777,2269387291,1736619777,curriculum/challenges/english/25-front-end-development/lab-favourite-icon-toggler/66bf6bacf178eac7b96d4f5e.md,"```suggestion
+const inputs = document.querySelectorAll('ul li span.favorite-icon');
+assert(inputs.length)
+```
+When `inputs` is empty the for..of loop does not run. Therefore the test does not fail.",Dario-DC,https://github.com/Dario-DC,2024-08-29T16:14:56Z,2024-08-29T16:14:56Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55885
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722117492,2246082739,1722117492,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,"```suggestion
+In this example, the `numbersArr` has each element looped through like before. Only this time, it removes the if statement and replaces it with an `or` operator. This `or` operator says if `counts[el]` is falsy to return the other value. 
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-19T17:22:44Z,2024-08-19T17:24:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722117806,2246082739,1722117806,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,"```suggestion
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-19T17:23:02Z,2024-08-19T17:24:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722118132,2246082739,1722118132,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,"```suggestion
+An value can be considered <dfn>falsy</dfn> if it is `null`, `undefined`, or otherwise can be evaluated as false. 
+```
+
+Though I do feel like we've taught this before.",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-19T17:23:22Z,2024-08-19T17:24:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722118552,2246082739,1722118552,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,"```suggestion
+An example of such an expression is the following: 
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-19T17:23:43Z,2024-08-19T17:24:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722253221,2246302710,1722253221,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,We might have explained it in the shopping cart curriculum though it might not hurt to explain it multiple times. ,a2937,https://github.com/a2937,2024-08-19T19:28:02Z,2024-08-19T19:28:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722321359,2246414254,1722321359,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,"````suggestion
+Your `forEach` loop is fully functional, but it's very verbose. You can actually simplify it further.
+
+To do so, you will need to use an <dfn>arrow function expression</dfn>. This kind of function expression does not use curly braces, opting for a more compact single-line syntax.
+
+Here is an example of an arrow function expression: 
+
+```js
+const numbersArr = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4];
+const counts = {};
+numbersArr.forEach(el => counts[el] = (counts[el] || 0) + 1)
+```
+
+In this example, `forEach` still iterates through every value in the array. The callback is now an arrow function expression.
+
+The `(counts[el] || 0)` falls back to `0` when `counts[el]` is `undefined`, or another falsy value. This ensures that `counts[el]` will be incremented by 1, or initialised to 1 if the property does not have a truthy value.
+
+Replace the callback in your `forEach` to an arrow function expression like the example.
+````",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-19T20:36:34Z,2024-08-20T15:27:46Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722321644,2246414254,1722321644,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,Not sure how I feel about an example that could pretty much be copy-pasted.,naomi-lgbt,https://github.com/naomi-lgbt,2024-08-19T20:36:52Z,2024-08-19T20:36:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1722575842,2246810405,1722575842,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-advanced-array-methods-by-building-a-statistics-calculator/66bbb13f90639e7a6d664153.md,Oh. Yeah that's an issue. :( I should probably fix it. ,a2937,https://github.com/a2937,2024-08-20T01:34:21Z,2024-08-20T01:34:21Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55846
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1715486919,2235869367,1715486919,client/i18n/locales/english/intro.json,"I cannot make a proper suggestion here. The `intro.json` should remain exactly as before adding the new block (order of blocks included) except for the placeholder `196` which should be replaced by 
+```
+""build-a-real-time-counter"": {
+        ""title"": ""Build a Real Time Counter"",
+        ""intro"": ["""", """"]
+      },
+```",Dario-DC,https://github.com/Dario-DC,2024-08-13T15:18:51Z,2024-08-13T15:18:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1716386071,2237287631,1716386071,client/i18n/locales/english/intro.json,"I have copied the original `intro.json` from the main repo, replaced the placeholder 196.
+I hope this is how the file should look like.",zairahira,https://github.com/zairahira,2024-08-14T06:41:06Z,2024-08-14T06:41:06Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723355807,2248072425,1723355807,curriculum/challenges/_meta/lab-real-time-counter/meta.json,"```suggestion
+  ""helpCategory"": ""JavaScript""
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T13:51:27Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723359869,2248072425,1723359869,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+**Objective:** Fulfill the user stories below and get all the tests to pass to complete the lab.
+```
+As I understand we are not going to add it in each lab.",Dario-DC,https://github.com/Dario-DC,2024-08-20T13:53:50Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723376143,2248072425,1723376143,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+```
+As we decided to let campers write the link and the script themselves",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:02:51Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723376535,2248072425,1723376535,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:03:04Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723385486,2248072425,1723385486,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+1. There should be a `p` element with the `id` of `char-count`. It should initially contain the text `Character Count: 0/50`. This placeholder text should be replaced with the current count of characters in the `textarea` element.
+```
+I would use `char-count` instead.",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:08:14Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723388350,2248072425,1723388350,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+You should have a `p` element with the `id` of `char-count`. 
+```
+Following the previous comment.",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:09:49Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723389036,2248072425,1723389036,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+assert($('p').attr('id') == 'char-count');
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:10:08Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723391147,2248072425,1723391147,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+You should select the character count display element by its id `char-count` and store it in the variable `charCountDisplay`.
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:11:13Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723393484,2248072425,1723393484,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+You should update the `#char-count` text to show the current character count using `innerHTML` and using the string template `Character Count: ${charCount}/50`.
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:12:24Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723394496,2248072425,1723394496,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+        <p id=""char-count"">Character Count: 0/50</p>
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:12:57Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723394844,2248072425,1723394844,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+#char-count {
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:13:10Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723395484,2248072425,1723395484,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+  let charCountDisplay = document.getElementById(""char-count"");
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:13:33Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723397653,2248072425,1723397653,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+The `#char-count` `p` element should initially contain the text `Character Count: 0/50`.
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:14:49Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723422542,2248072425,1723422542,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"As Jessica mentioned, one can use `querySelector` instead of `getElementById`. But also, you can get the element and store it in a variable and have `<variableName>.addEventListener`",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:29:17Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723434808,2248072425,1723434808,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+1. You should have a `textarea` element with the `id` of `text-input`. It should have a `placeholder` attribute with the text `Type something...`.
+```
+I would use `text-input` in place of `textInput`",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:36:22Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723435537,2248072425,1723435537,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+1. You should attach an event listener to the `text-input` element that listens for the `input` event. 
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:36:49Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723436616,2248072425,1723436616,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+You should have a `textarea` element with the `id` of `text-input`. 
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:37:28Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723437028,2248072425,1723437028,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+assert($('textarea').attr('id') == 'text-input');
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:37:44Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723437786,2248072425,1723437786,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+You should attach an event listener to the `text-input` element.
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:38:05Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723438314,2248072425,1723438314,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+Your event listener on `#text-input` should listen for the `input` event.
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:38:21Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723439117,2248072425,1723439117,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+Inside the event trigger function, you should create a condition that checks if the current character count is greater than `50`. 
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:38:47Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723441009,2248072425,1723441009,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+<script src=""script.js""></script>
+</body>
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:39:49Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723441628,2248072425,1723441628,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+        <textarea id=""text-input"" placeholder=""Type something...""></textarea>
+```",Dario-DC,https://github.com/Dario-DC,2024-08-20T14:40:13Z,2024-08-20T14:48:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1733216456,2263971152,1733216456,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+const textInput = document.getElementById('text-input');
+const charCount = document.getElementById('char-count');
+
+textInput.value = ""hello coder"";
+textInput.dispatchEvent(new Event('input'));
+textInput.dispatchEvent(new Event('change'));
+
+assert.strictEqual(charCount.innerText.trim(), 'Character Count: 11/50');
+```
+
+We need to fire the ""input"" event too, which is what the solution code listens for. Also, neither of these will really help if we don't change the *value* of the text input first. :3",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-27T16:42:47Z,2024-08-27T16:42:47Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1734364549,2265753008,1734364549,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,This test is passing even if nothing is entered in the text area.,zairahira,https://github.com/zairahira,2024-08-28T09:54:24Z,2024-08-28T09:54:24Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1736395396,2269057499,1736395396,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"I was expecting something different, this test works!",zairahira,https://github.com/zairahira,2024-08-29T14:51:29Z,2024-08-29T14:51:29Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1744320489,2281088832,1744320489,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+If character count is greater than or equal to `50`, the user shouldn't be able to enter more characters.
+```",moT01,https://github.com/moT01,2024-09-04T19:38:17Z,2024-09-04T19:41:12Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1744323714,2281088832,1744323714,curriculum/challenges/english/25-front-end-development/lab-real-time-counter/66bb3e20d3dc5b6d0a21f5dd.md,"```suggestion
+textInput.value = ""I am learning a new programming language and it is called c++."";
+textInput.dispatchEvent(new Event('input'));
+textInput.dispatchEvent(new Event('change'));
+assert.strictEqual(textInput.value.length, 50);
+```
+
+This test wasn't working quite right. The string you had was exactly 50 characters, we want to make sure that a string longer than 50 isn't allowed.",moT01,https://github.com/moT01,2024-09-04T19:40:21Z,2024-09-04T19:41:12Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55838
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1708151365,2226395712,1708151365,client/src/components/settings/certification.tsx,"Previously, the rendering logic is:
+- If the Full Stack cert is claimable (meaning the user has completed 6 other certs)
+  - If the user has claimed the cert, render a ""Show cert"" link
+  - If the user has not claimed the cert, render a ""Claim cert"" link
+  - Both links have an `onClick`. And If the link is ""Claim cert"", `onClick` will execute some additional logic for the action
+- If the Full Stack cert is not claimable (meaning the user has not completed 6 other certs), render a ""Claim cert"" button and disable it
+",huyenltnguyen,https://github.com/huyenltnguyen,2024-08-08T00:00:25Z,2024-08-08T00:10:25Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55781
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1708169794,2226395712,1708169794,client/src/components/settings/certification.tsx,"I'm now changing the logic to:
+- If the user has claimed the Full Stack cert:
+  - Render a ""Show cert"" link, without an `onClick`
+- If the user hasn't claimed the Full Stack cert:
+  - Render a ""Claim cert"" button with an `onClick`, and disable the button if the Full Stack cert isn't claimable",huyenltnguyen,https://github.com/huyenltnguyen,2024-08-08T00:07:51Z,2024-08-08T00:10:25Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55781
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1708172324,2226395712,1708172324,client/src/components/settings/certification.tsx,"Same thing here, but for normal certs.",huyenltnguyen,https://github.com/huyenltnguyen,2024-08-08T00:09:01Z,2024-08-08T00:10:25Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55781
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1704408080,2219486831,1704408080,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/66ad0f178ed5791ed898fe56.md,"```suggestion
+If you try to add a new task, add a single space in title field, and click on the `Add New Task` button, you will notice a bug.
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-05T17:03:55Z,2024-08-05T17:06:04Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55730
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1704408712,2219486831,1704408712,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/66ad0f178ed5791ed898fe56.md,"```suggestion
+An empty task will be created even though title field is required. To fix this, you need add an `if` condition checking for a value that would appear empty.
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-05T17:04:33Z,2024-08-05T17:06:04Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55730
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1704408970,2219486831,1704408970,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/66ad0f178ed5791ed898fe56.md,"```suggestion
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-08-05T17:04:52Z,2024-08-05T17:06:04Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55730
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740162056,2274456628,1740162056,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/66ad0f178ed5791ed898fe56.md,"```suggestion
+An empty task will be created even though the title field is required. To fix this, you need to add an `if` condition checking for a value that would appear empty.
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-01T16:57:19Z,2024-09-01T16:59:01Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55730
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1740162120,2274456628,1740162120,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/66ad0f178ed5791ed898fe56.md,"```suggestion
+If you try to add a new task, write single space in title field, and click on the `Add New Task` button, you will notice a bug.
+```",ilenia-magoni,https://github.com/ilenia-magoni,2024-09-01T16:57:39Z,2024-09-01T16:59:01Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55730
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1698366523,2209925706,1698366523,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/64ff24b80431f62ec6b93f65.md,"Could you make each of these into separate test? And split the remaining, not covered yet, part of original regex into separate tests?",gikf,https://github.com/gikf,2024-07-31T11:41:14Z,2024-07-31T11:41:14Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55715
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1698454380,2210077980,1698454380,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/64ff24b80431f62ec6b93f65.md,sorry I did not get this! Can you please explain this comment a bit more?,ujjwal502,https://github.com/ujjwal502,2024-07-31T12:49:44Z,2024-07-31T18:49:44Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55715
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1701683732,2215314011,1701683732,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/64ff24b80431f62ec6b93f65.md,hey @gikf any input on the above?,ujjwal502,https://github.com/ujjwal502,2024-08-02T10:47:56Z,2024-08-02T10:47:56Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55715
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1701703413,2215346981,1701703413,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-localstorage-by-building-a-todo-app/64ff24b80431f62ec6b93f65.md,@gikf  BTW I have made them into separate tests. Can you please review again and check if that's what you were talking about?,ujjwal502,https://github.com/ujjwal502,2024-08-02T11:07:01Z,2024-08-02T11:07:01Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55715
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1693827308,2203086147,1693827308,client/i18n/locales/english/intro.json,"Also, I think this should be named library instead of lib because most campers won't understand what lib is",jdwilkin4,https://github.com/jdwilkin4,2024-07-27T05:06:40Z,2024-07-27T05:06:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55668
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719581098,2242291297,1719581098,api/__mocks__/new-exam.ts,"Since we don't get to play with intervals, maybe use milliseconds here? That way it's consistent with Date and we don't need to convert between the two.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T09:13:00Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719651142,2242291297,1719651142,api/prisma/schema.prisma,Could you explain why not? It's not clear from context why this is special.,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:15:16Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719655368,2242291297,1719655368,api/prisma/schema.prisma,Should this be `QuestionGroup` or maybe `QuestionCategory`? It doesn't seem right to have `type` be a property of type.,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:19:52Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719656636,2242291297,1719656636,api/prisma/schema.prisma,"```suggestion
+type MultipleChoice {
+```
+Or MultipleChoiceQuestion? ""New"" isn't very descriptive.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:21:24Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719658122,2242291297,1719658122,api/prisma/schema.prisma,"```suggestion
+type Audio {
+```
+It doesn't seem to be new.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:22:51Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719659202,2242291297,1719659202,api/prisma/schema.prisma,Why float? An integer no. of milliseconds seems more natural.,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:24:06Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719660479,2242291297,1719660479,api/prisma/schema.prisma,Should this be a relation?,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:25:26Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719661352,2242291297,1719661352,api/prisma/schema.prisma,DateTime?,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:26:01Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719662121,2242291297,1719662121,api/prisma/schema.prisma,DateTime again?,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:26:44Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719663358,2242291297,1719663358,api/prisma/schema.prisma,"It seems weird to suddenly be using snake case for properties. It's better to be consisent, imo.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:28:00Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719665524,2242291297,1719665524,api/src/app.ts,"Shouldn't this be ""is staging"" or have its own env var?",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:30:02Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719667928,2242291297,1719667928,api/src/exam-environment/routes/exam-environment.test.ts,This is a WIP?,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:32:09Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719684026,2242291297,1719684026,api/prisma/schema.prisma,`text` is very generic. What is this for?,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:48:33Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719689856,2242291297,1719689856,api/prisma/schema.prisma,It seems a little strange to separate out these exam properties from the rest. i.e. name and accessibility_note seem as much part of config as these.,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T10:55:19Z,2024-08-16T10:56:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719731105,2242533088,1719731105,api/src/exam-environment/routes/exam-environment.test.ts,"Yes, ignore the tests. I stopped writing tests when I realised I was changing the schema twice per week.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:40:09Z,2024-08-16T11:40:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719735144,2242539674,1719735144,api/prisma/schema.prisma,"It is the text for the overall question type.
+
+I did not want to call it `question_type_text`.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:44:27Z,2024-08-16T11:45:15Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719736330,2242541682,1719736330,api/prisma/schema.prisma,"No, but I wanted it clear this was related to the `NewExam` and not the `Exam`.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:45:55Z,2024-08-16T11:45:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719737921,2242544289,1719737921,api/prisma/schema.prisma,"No specific reason expect that is the format we use it everywhere. So, using milliseconds would mean everywhere would need to convert to a float of seconds.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:47:50Z,2024-08-16T11:47:50Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719738165,2242544658,1719738165,api/prisma/schema.prisma,Good point.,ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:48:05Z,2024-08-16T11:48:05Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719742774,2242551959,1719742774,api/prisma/schema.prisma,"I am not sure how to write that relation?
+
+`exam.question_types[].tags` can be a subset of `exam.config.tags[].set`. Or, `exam.config.tags[].set` can be a subset of `exam.question_types[].tags`.
+
+So, all of `exam.config.tags[].set` must be in the union of `exam.question_types.tags`.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:52:00Z,2024-08-16T11:52:00Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719744333,2242554128,1719744333,api/prisma/schema.prisma,"Why complicate the type for the same amount of info? `DateTime` in Prisma maps to `Timestamp` in Mongodb, which is just a complicated _""Current time since epoch in seconds""_.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:53:13Z,2024-08-16T11:53:13Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719745130,2242555230,1719745130,api/src/app.ts,"I asked you if it should have its own env var, and you said ""no"", because `FREECODECAMP_NODE_ENV` perfectly suits the bill.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:53:55Z,2024-08-16T11:53:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719746530,2242557128,1719746530,api/prisma/schema.prisma,"That is nicer, assuming we move away from the `New___` prefix.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:55:07Z,2024-08-16T11:55:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719748085,2242559597,1719748085,api/prisma/schema.prisma,"Maybe `QuestionCategory`, but that does not _ring as well with me_ as `QuestionType`.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:56:36Z,2024-08-16T11:56:36Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719751093,2242564328,1719751093,api/prisma/schema.prisma,"I could, but, now, I cannot 😅 
+
+I clearly had a good reason for this at some point, but it has escaped me.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T11:59:31Z,2024-08-16T11:59:31Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719752110,2242566023,1719752110,api/__mocks__/new-exam.ts,"Sure, we could go with milliseconds.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T12:00:26Z,2024-08-16T12:00:26Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719754413,2242569532,1719754413,api/prisma/schema.prisma,"If we really want to, we can.
+
+You just want to change as much of the schema as possible, don't you!",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T12:02:36Z,2024-08-16T12:02:36Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719761223,2242580988,1719761223,api/src/app.ts,"I might have, but nonetheless: why only in development? Isn't the plan to put this on staging first?",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T12:10:12Z,2024-08-16T12:10:12Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719767987,2242592245,1719767987,api/prisma/schema.prisma,"Right, but ""text"" is implied because it's a string! What kind of text is it? A description? A name?",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T12:17:10Z,2024-08-16T12:17:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719770029,2242595399,1719770029,api/prisma/schema.prisma,"It's a bit verbose, but I think most of the News can become MultipleChoices.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T12:19:16Z,2024-08-16T12:19:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719772690,2242599594,1719772690,api/prisma/schema.prisma,"The issue is that QuestionType makes it sound like it's a question, but it contains questions. It also sounds like a type, but contains a type.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T12:21:55Z,2024-08-16T12:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719777234,2242606953,1719777234,api/prisma/schema.prisma,"That answers the question, I think. Because there's a type of data that perfectly represents what we want to store.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T12:26:29Z,2024-08-16T12:26:30Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719794726,2242635688,1719794726,api/src/app.ts,"Currently, there is no plan with deploying this section of code. At least not one that is needed for this PR. The only thing is it must NOT go to production.
+
+What is `FREECODECAMP_NODE_ENV` on `.dev`? Is it `""production""` or `""staging""`?",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T12:44:21Z,2024-08-16T12:44:21Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719795442,2242636911,1719795442,api/prisma/schema.prisma,"It is whatever the exam maker wants. It can be a question, it can be a description, it can be an instruction, it can be added context...",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T12:45:06Z,2024-08-16T12:45:06Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719797149,2242639663,1719797149,api/prisma/schema.prisma,"Right, but `DateTime`:
+a) Is annoying to work with, because, most of the time, we want just a number.
+b) Takes more space",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T12:46:49Z,2024-08-16T12:46:49Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719798463,2242641660,1719798463,api/prisma/schema.prisma,"It is one of the things that goes in `question_types`. It is a type. But, without putting the type on the item, within the array, how do we know the type?",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T12:48:03Z,2024-08-16T12:48:03Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719828874,2242692439,1719828874,api/src/app.ts,"`FREECODECAMP_NODE_ENV` is `development` by default locally and `production` on the production sites (.org and .dev). If you want to distinguish between .org and .dev, `DEPLOYMENT_ENV` does that for you.
+
+If the idea is only allow this locally, please add a comment so we know this isn't intended to be used yet.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T13:17:18Z,2024-08-16T13:17:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719832695,2242698477,1719832695,api/prisma/schema.prisma,Surely those should be different properties.,ojeytonwilliams,https://github.com/ojeytonwilliams,2024-08-16T13:20:35Z,2024-08-16T13:20:35Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719971268,2242932110,1719971268,api/prisma/schema.prisma,"Well, no. They are all just text that appear before the question text itself.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-16T15:04:39Z,2024-08-16T15:04:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1721465221,2245022971,1721465221,api/prisma/schema.prisma,"At the moment the `question_type` only holds text if it is a dialogue type. Why not call the attribute `dialogue_text` for now?
+
+Paragraph could also be an option. ",Sembauke,https://github.com/Sembauke,2024-08-19T09:13:40Z,2024-08-19T09:13:40Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1721468557,2245028280,1721468557,api/prisma/schema.prisma,"> Why not call the attribute dialogue_text for now?
+
+Because we cannot change it in the future. Also, it is not a given it will just be for dialogue types. We discussed adding text for non-dialogues to it as well for things like audio questions.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-19T09:16:15Z,2024-08-19T09:16:23Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1721477283,2245042047,1721477283,api/prisma/schema.prisma,We can make it more descriptive by calling it description instead. It describes what the question is about. ,Sembauke,https://github.com/Sembauke,2024-08-19T09:23:03Z,2024-08-19T09:23:04Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1721498083,2245074438,1721498083,api/prisma/schema.prisma,Best I would suggest is `context`. `description` does not work for dialogue text.,ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-19T09:39:13Z,2024-08-19T09:39:13Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1721580169,2245207296,1721580169,api/prisma/schema.prisma,"That sounds reasonable, I quite like it.",Sembauke,https://github.com/Sembauke,2024-08-19T10:35:00Z,2024-08-19T10:35:00Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723564544,2248420499,1723564544,api/prisma/schema.prisma,This would be the dialogue text?,moT01,https://github.com/moT01,2024-08-20T15:57:22Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723575673,2248420499,1723575673,api/prisma/schema.prisma,Maybe `allowedTimeInMS` or `allowedTimeInMilliseconds` to be extra clear about what it is.,moT01,https://github.com/moT01,2024-08-20T16:03:46Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723595792,2248420499,1723595792,api/prisma/schema.prisma,"Maybe change `set` to `tags` or `tagGroup`?
+
+Just thinking through this...
+
+If I have two questions, one with a tag [""Rhetorical""], and another with `[""Rhetorical"", ""Geography""]`
+
+Then this config says `[""Rhetorical""], 1` and `[""Rhetorical"", ""Geography""], 1`
+
+Would you then pick questions with that exact tag group? Or would you be able pick the `[""Rhetorical"", ""Geography""]` question for the `[""Rhetorical""]` group since it has that tag?",moT01,https://github.com/moT01,2024-08-20T16:14:37Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723598342,2248420499,1723598342,api/prisma/schema.prisma,Maybe more specific? `questionGroupConfig`?,moT01,https://github.com/moT01,2024-08-20T16:16:19Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723631140,2248420499,1723631140,api/prisma/schema.prisma,"I don't have a preference here. Pretty sure I used MS when I made the animations, Daniel wanted to use seconds so we switched to that. I believe the audio element uses seconds - e.g. `new Audio('1.1-1.mp3#t=2.6,4')` - not sure if that's what you will be using. 
+
+If that's the case, do you even need startTime and endTime? The URL could just contain the timestamps?",moT01,https://github.com/moT01,2024-08-20T16:39:37Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723635116,2248420499,1723635116,api/prisma/schema.prisma,there might be more than one?,moT01,https://github.com/moT01,2024-08-20T16:42:18Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723653246,2248420499,1723653246,api/prisma/schema.prisma,"So each non-dialogue question would be a questions array? Wonder if this could be structured differently...
+
+```
+question1 (regular question): {
+  text, answers
+}
+
+question2 (dialogue question): {
+  numberOfQuestions: 5,
+  context: ""long dialogue here"",
+  questions: [ at least 5 questions here ]
+}
+```
+
+ Just throwing out thoughts. Perhaps it would be easier to go with something like this.",moT01,https://github.com/moT01,2024-08-20T16:55:46Z,2024-08-20T17:17:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723746068,2248714888,1723746068,api/prisma/schema.prisma,"Yes, but as mentioned, it is not just for dialogues. Some `type === ""MultipleChoice""` questions have it too.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-20T18:15:18Z,2024-08-20T18:15:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1723747776,2248717947,1723747776,api/prisma/schema.prisma,Yes. Definitely.,ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-20T18:16:30Z,2024-08-20T18:16:31Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725186705,2251026564,1725186705,api/src/exam-environment/routes/exam-environment.ts,"```suggestion
+    const twentyFourHoursAgo = Date.now() - 24 * 60 * 60 * 1000;
+```",moT01,https://github.com/moT01,2024-08-21T14:45:33Z,2024-08-21T14:45:43Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725218624,2251073468,1725218624,api/src/exam-environment/routes/exam-environment.ts,This won't find the latest attempt.,moT01,https://github.com/moT01,2024-08-21T14:57:12Z,2024-08-21T14:57:13Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725252680,2251124302,1725252680,api/src/exam-environment/utils/exam.ts,"```suggestion
+    const userQuestions = qt.questions.map(gq => {
+      const matchingQuestion = questions.find(
+        eq => eq.id === gq.id
+      );
+```",moT01,https://github.com/moT01,2024-08-21T15:07:51Z,2024-08-21T15:07:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725257109,2251131277,1725257109,api/src/exam-environment/utils/exam.ts,map over the answers as well.,moT01,https://github.com/moT01,2024-08-21T15:09:13Z,2024-08-21T15:09:13Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725267792,2251146861,1725267792,api/src/exam-environment/utils/exam.ts,"```suggestion
+      context: matchingQuestionType.text
+```
+?",moT01,https://github.com/moT01,2024-08-21T15:12:25Z,2024-08-21T15:12:26Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725299780,2251196851,1725299780,api/src/exam-environment/utils/exam.ts,Maybe look into a deepInclude or something here?,moT01,https://github.com/moT01,2024-08-21T15:27:51Z,2024-08-21T15:27:51Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725305186,2251205350,1725305186,api/src/exam-environment/routes/exam-environment.ts,"Don't trust the attemptId coming from the user. Get the attemptId from the database (userId).
+
+Or make sure the id that comes in is their latest attempt.",moT01,https://github.com/moT01,2024-08-21T15:30:47Z,2024-08-21T15:41:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725723890,2251895742,1725723890,api/prisma/schema.prisma,"Changed to milliseconds, so the datetime does not work anyway.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-21T20:33:52Z,2024-08-21T20:33:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1725735399,2251914151,1725735399,api/src/exam-environment/utils/exam.ts,Added `chai.assert.deepInclude`. Still need to test it.,ShaunSHamilton,https://github.com/ShaunSHamilton,2024-08-21T20:45:45Z,2024-08-21T20:45:45Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55662
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1709814785,2228285251,1709814785,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-recursion-by-building-a-decimal-to-binary-converter/645ca62092c53f29f4ea9bf6.md,"This is fine, but it feels a little too restrictive. Similar to what I mentioned on the other PR where users had to delete some code. This will pass by just changing `number` to `numer`. What about something like this: `assert.notTypeOf(countdown, 'function');`
+
+It will still pass by just changing `countdown` to `countdon`, but it tests for exactly what the message says.",moT01,https://github.com/moT01,2024-08-08T15:51:56Z,2024-08-08T15:53:05Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55587
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1713035228,2231869118,1713035228,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-recursion-by-building-a-decimal-to-binary-converter/645ca62092c53f29f4ea9bf6.md,"`assert.isNotFunction(countdown)` might even better show the test intent.
+
+Edit: or not.
+
+Unfortunately both `assert.notTypeOf(countdown, 'function')` and `assert.isNotFunction(countdown)` are erroring when `countdown` is completely removed
+
+> [ReferenceError: countdown is not defined] ",gikf,https://github.com/gikf,2024-08-11T18:23:52Z,2024-08-11T20:10:03Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55587
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1709631731,2228054111,1709631731,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-basic-javascript-by-building-a-role-playing-game/62a3bec30ea7f941412512dc.md,What was the issue with all these tests? I don't think I'm seeing any problems with how they were.,moT01,https://github.com/moT01,2024-08-08T14:26:18Z,2024-08-08T14:57:42Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55580
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1709646687,2228054111,1709646687,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-basic-javascript-by-building-a-role-playing-game/62a7bf06d2ad9d1c5024e833.md,"I think these were fine how they were. When I add `button1.onclick = buyHealth;` outside of the `goStore` function, I get the ""You should use dot notation to access the `onclick` property of `button1`"" message. But I did what the message says, just not where it's being tested. I would revert these, unless I'm missing something - but it seems to work how it was.
+
+",moT01,https://github.com/moT01,2024-08-08T14:32:52Z,2024-08-08T14:57:42Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55580
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1709692736,2228054111,1709692736,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-basic-javascript-by-building-a-role-playing-game/62fc20387ef88d1d1998aac5.md,"Similar to my thoughts on step 29 - I didn't see an issue with these how they were, but maybe I'm missing something.",moT01,https://github.com/moT01,2024-08-08T14:55:04Z,2024-08-08T14:57:42Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55580
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1713028318,2231862580,1713028318,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-basic-javascript-by-building-a-role-playing-game/62a7bf06d2ad9d1c5024e833.md,"In current form this test is not really checking anything - it matches seed code.
+
+What do you think about adding to the hint text something like: _in your `goStore` function_?",gikf,https://github.com/gikf,2024-08-11T17:34:16Z,2024-08-11T17:34:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55580
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1707827771,2226108134,1707827771,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-introductory-javascript-by-building-a-pyramid-generator/660f487dc0c8fa38084f9754.md,"I don't particularly like this regex. The task is to remove the entire `if` - if they just change a tiny bit of it, it passes - e.g. change `count` to `coun`. We don't want them to have `if`, `done`, `count` or any of it. I think I would test this by checking the surrounding code - make sure they have something like this:
+
+```
+  rows.push(padRow(done, count));
+}
+let result = """"
+```
+
+But maybe that's too restrictive. I'll let you change it if you want, @gikf - or like I said, it's pretty minor so I'm fine with it.",moT01,https://github.com/moT01,2024-08-07T20:17:40Z,2024-08-07T20:24:06Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55564
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1708830474,2227073503,1708830474,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-introductory-javascript-by-building-a-pyramid-generator/660f487dc0c8fa38084f9754.md,"That's really good point. I tried to write regex, which would allow optionally the `continueLoop = false;` from the inside `if`, but it's a bit spotty once parts of it are getting removed:
+```suggestion
+assert.match(__helpers.removeJSComments(code), /rows\.push\s*\(padRow\s*\(\s*done\s*,\s*count\s*\)\s*\)\s*;?\s*(?:continueLoop\s*=\s*false\s*;?)\s*\}\s*let\s*result/);
+```
+
+Moving test for the _whole_ `if`, after the one testing removing of the `continueLoop...`, would allow to make stricter test for the snipped from your comment: 
+
+
+````
+You should remove `if` statement with its contents.
+
+```js
+assert.match(__helpers.removeJSComments(code), /rows\.push\s*\(padRow\s*\(\s*done\s*,\s*count\s*\)\s*\)\s*;?\s*\}\s*let\s*result\s*=/);
+```
+````",gikf,https://github.com/gikf,2024-08-08T07:28:28Z,2024-08-08T07:28:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55564
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1687229538,2192684724,1687229538,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-the-date-object-by-building-a-date-formatter/6538935e2ab721beedb137c4.md,This test should be updated to check that all three things are used. Or more tests should be added to check them individually.,moT01,https://github.com/moT01,2024-07-22T23:07:33Z,2024-07-22T23:08:45Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55480
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1687229686,2192684724,1687229686,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-the-date-object-by-building-a-date-formatter/6538935e2ab721beedb137c4.md,"```suggestion
+Like in the previous step, use method chaining to `split`, `reverse`, and `join` the array. Use `'-'` in the split and join methods.
+```
+
+I think we should add a mention here to use the `-` on the split and join. ",moT01,https://github.com/moT01,2024-07-22T23:07:51Z,2024-07-22T23:08:45Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55480
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1691268889,2199006906,1691268889,curriculum/challenges/english/15-javascript-algorithms-and-data-structures-22/learn-the-date-object-by-building-a-date-formatter/6538935e2ab721beedb137c4.md,Thank you very much! Would it be okay if I look into this next week? I will let you know if I need any help.,patrickwcode,https://github.com/patrickwcode,2024-07-25T11:11:05Z,2024-07-25T11:11:06Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55480
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1659258785,2148864544,1659258785,client/i18n/locales/english/translations.json,"syntax error is too specific for python, there are many different errors possible (TypeError, ValueError etc). Also it's terminal, not console. Maybe it needs two different strings?",ilenia-magoni,https://github.com/ilenia-magoni,2024-06-28T19:58:46Z,2024-06-28T19:58:47Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55362
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1659334537,2149000210,1659334537,client/i18n/locales/english/translations.json,Got it chief. ,a2937,https://github.com/a2937,2024-06-28T21:10:43Z,2024-06-28T21:10:43Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55362
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1654274151,2140942213,1654274151,client/src/components/Donation/donation-modal-body.tsx,"We can just create the button ref internally in the `Benefits` component body. But since `BecomeASupporterConfirmation` is the outermost component of the modal's second part, and we have buttons in other components as well (`CloseButtonRow`), I thought the focus management should be kept in this layer so that it's easier to follow.
+
+I'm not sure if I'm overthinking here and we should just move the focus management into `Benefits` instead.",huyenltnguyen,https://github.com/huyenltnguyen,2024-06-26T07:22:12Z,2024-06-26T07:25:45Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55273
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1654278948,2140942213,1654278948,client/src/components/Donation/donation-modal.tsx,"Under the hood, `Modal` calls `onClose` when the Esc key is pressed. `handleModalHide` previously didn't trigger the close action so the keypress was ignored.",huyenltnguyen,https://github.com/huyenltnguyen,2024-06-26T07:25:12Z,2024-06-26T07:25:45Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55273
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1719696932,2242474933,1719696932,client/src/components/Donation/donation-modal.tsx,"
+Wouldn't the following be more straightforward. 
+```suggestion
+    if (isA11yFeatureEnabled && canClose ) {
+              closeDonationModal();
+    }
+```",ahmaxed,https://github.com/ahmaxed,2024-08-16T11:03:27Z,2024-08-16T11:03:27Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55273
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637973451,2115396775,1637973451,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694eaaeb7d253049fa7883.md,"""these"" is quite cryptic",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:24:37Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637974595,2115396775,1637974595,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,"Maybe we should say somewhere that we are talking about a data type. Also, a mutable one.",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:25:31Z,2024-06-13T10:56:42Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637978019,2115396775,1637978019,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694fc4bba24f33ca01fa5b.md,What if we ask to print the list after appending the new item?,Dario-DC,https://github.com/Dario-DC,2024-06-13T10:28:18Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637982254,2115396775,1637982254,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666951d2e4b27e3a3c72ca5f.md,"```suggestion
+You can also access a single element to get its value.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:31:44Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637983069,2115396775,1637983069,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666951d2e4b27e3a3c72ca5f.md,"```suggestion
+To access an element you use bracket notation. For example `example_list[1]` is accessing the element at index `1`, the second element, of `example_list`.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:32:24Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637983717,2115396775,1637983717,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666951d2e4b27e3a3c72ca5f.md,"```suggestion
+The lists are zero-indexed like strings are, that means that the first element is at index `0`, the second element is at index 1 and so on.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:32:55Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637985101,2115396775,1637985101,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,"It is evident now, but maybe we should say that lists can hold different data types.",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:34:10Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637991308,2115396775,1637991308,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666aae6a5d30a71f1fd7749f.md,"```suggestion
+The `.insert()` method can add an element at any position in a list, the first argument is the position at which the element has to be added, and the second argument is the element to add. For example, let's add a new element in the third position of `example_list`.
+```
+Considering what we said about making consistent the way we refer to methods/functions. Not sure about the dot, at this point.",Dario-DC,https://github.com/Dario-DC,2024-06-13T10:39:48Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1637993546,2115396775,1637993546,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666aae6a5d30a71f1fd7749f.md,What is the right position? Does it need to be ordered?,Dario-DC,https://github.com/Dario-DC,2024-06-13T10:41:36Z,2024-06-13T10:56:02Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649626730,2133694518,1649626730,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,Do we want to use `<dfn>` here?,Dario-DC,https://github.com/Dario-DC,2024-06-22T10:36:35Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649626782,2133694518,1649626782,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694eaaeb7d253049fa7883.md,"```suggestion
+`my_list` should have two elements inside.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T10:37:11Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649626838,2133694518,1649626838,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694eaaeb7d253049fa7883.md,Maybe I would mention again to use the comma to separate the values.,Dario-DC,https://github.com/Dario-DC,2024-06-22T10:37:44Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649626902,2133694518,1649626902,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694fc4bba24f33ca01fa5b.md,"```suggestion
+You can add an item to the end of a list using the `append()` method. For example:
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T10:38:25Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649627427,2133694518,1649627427,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666951d2e4b27e3a3c72ca5f.md,"```suggestion
+The lists are zero-indexed like strings are. That means that the first element is at index `0`, the second element is at index `1` and so on.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T10:42:06Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649628170,2133694518,1649628170,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,"```suggestion
+Another thing you can do with bracket notation is change an element value.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T10:47:55Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649628277,2133694518,1649628277,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,"```suggestion
+For example, the line `example_list[1] = 'oh'` will make `example_list` have value of `[4, 'oh', 6, 7]`.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T10:48:45Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649628496,2133694518,1649628496,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,Maybe it would be better to show the initial value of `example_list` or say that the `5` has been replaced by that string.,Dario-DC,https://github.com/Dario-DC,2024-06-22T10:50:53Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649628727,2133694518,1649628727,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666aae6a5d30a71f1fd7749f.md,"```suggestion
+The `insert` method can add an element at any position in a list. The first argument is the position at which the element has to be added, and the second argument is the element to add. For example, here's how to add a new element in the third position of `example_list`:
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T10:53:46Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649629304,2133694518,1649629304,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666aae6a5d30a71f1fd7749f.md,I think we should say something more precise if we want the list to be ordered. Although is pretty intuitive.,Dario-DC,https://github.com/Dario-DC,2024-06-22T10:57:39Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649629535,2133694518,1649629535,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666ab82c874add3c95145213.md,"```suggestion
+One last important method, for now, is the `pop()` method. `pop()` can be used to remove an element from a list. By default, it removes the last element of the list, but you can pass an argument to the method and it will remove the element at the given index.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T11:00:14Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649629708,2133694518,1649629708,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666ab82c874add3c95145213.md,"I'm so glad you removed ""tomato"".",Dario-DC,https://github.com/Dario-DC,2024-06-22T11:01:42Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649629799,2133694518,1649629799,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666ab82c874add3c95145213.md,"```suggestion
+In this case, `fruits_list.pop(2)` removes the element at index `2` of the list.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-22T11:02:12Z,2024-06-22T11:07:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1649963370,2134141818,1649963370,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,"```suggestion
+Different from numbers and strings, a <dfn>list</dfn> is a data type that works as a container for other values:
+```
+
+Also ""data type"" shouldn't be hyphenated.",naomi-lgbt,https://github.com/naomi-lgbt,2024-06-23T07:02:22Z,2024-06-23T07:02:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1650578433,2135063314,1650578433,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,"```suggestion
+Python lists are mutable which means that the value of the list items can be changed.
+You can change an element's value using the bracket notation.
+```",zairahira,https://github.com/zairahira,2024-06-24T08:34:38Z,2024-06-24T08:36:07Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1657669332,2146273525,1657669332,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,"```suggestion
+A list can contain different data types: `[1, ""Up"", [""Down"", ""Twice]]`. That includes all possible data types. It can also contain an other list!
+```",Dario-DC,https://github.com/Dario-DC,2024-06-27T18:54:28Z,2024-06-27T19:13:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1657671350,2146273525,1657671350,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694eaaeb7d253049fa7883.md,"```suggestion
+To add items to a list, you can write them between the parenthesis, separating the values with commas.
+
+Add the numbers `1` and `2` inside the list.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-27T18:56:24Z,2024-06-27T19:13:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1657674496,2146273525,1657674496,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666951d2e4b27e3a3c72ca5f.md,"```suggestion
+Lists are zero-indexed like strings are. That means that the first element is at index `0`, the second element is at index `1` and so on.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-27T18:59:00Z,2024-06-27T19:13:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1657675010,2146273525,1657675010,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666951d2e4b27e3a3c72ca5f.md,"```suggestion
+To access an element you use bracket notation. For example, `example_list[1]` is accessing the element at index `1`, the second element, of `example_list`.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-27T18:59:25Z,2024-06-27T19:13:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1657677750,2146273525,1657677750,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,"```suggestion
+You can change the value of an element using the bracket notation.
+```",Dario-DC,https://github.com/Dario-DC,2024-06-27T19:00:43Z,2024-06-27T19:13:16Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661220936,2151677255,1661220936,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,"```suggestion
+Unlike numbers and strings, a <dfn>list</dfn> is a data type that works as a container for other values:
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:26:01Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661221359,2151677255,1661221359,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,"```suggestion
+The list is characterized by the square brackets around all the values, and a comma between the values, like: `[""A"", ""happy"", ""list""]`. If the list does not contain any values, then it is an empty list: `[]`.
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:26:20Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661221557,2151677255,1661221557,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694bfa435cef241f6f9a68.md,"```suggestion
+A list can contain different data types: `[1, ""Up"", [""Down"", ""Twice]]`. That includes all possible data types. It can also contain another list!
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:26:30Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661223257,2151677255,1661223257,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694eaaeb7d253049fa7883.md,"```suggestion
+To add items to a list, you can write them between the parentheses, separating the values with commas.
+```
+
+`Parenthesis` is the singular.",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:27:51Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661224540,2151677255,1661224540,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694fc4bba24f33ca01fa5b.md,"```suggestion
+Once you have a list, you generally won't add items to it by changing the declaration.
+```
+
+Not sure what we are trying to say here, tbh.",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:28:38Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661225245,2151677255,1661225245,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/6669539c1379793f9cb8917c.md,"```suggestion
+Python lists are mutable which means that the value of the list items can be changed. You can change the value of an element using the bracket notation.
+```
+",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:29:13Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1661226368,2151677255,1661226368,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/666ab9013cd5563f2b39947a.md,"```suggestion
+Now that you have explored lists, remove all of the code you wrote for your review so you can begin the project.
+```",naomi-lgbt,https://github.com/naomi-lgbt,2024-07-01T15:30:07Z,2024-07-01T15:30:10Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1667028839,2161084662,1667028839,curriculum/challenges/english/07-scientific-computing-with-python/learn-lambda-functions-by-building-an-expense-tracker/66694fc4bba24f33ca01fa5b.md,"I assume it is trying to explain that you do not add new items by re-declaring/re-initializing the list with new values. Although, it seems like an odd, or incomplete, preamble to teaching list methods.
+
+I might suggest directly going into the methods without the preamble.
+
+> Python has a handful of list methods. Such as methods for adding or removing list items.",lasjorg,https://github.com/lasjorg,2024-07-05T17:52:35Z,2024-07-05T17:52:35Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/55167
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1535635094,1954882612,1535635094,api-server/src/server/boot/user.js,"This looks like a slow operation, so should run once on boot, rather than on every request.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-03-22T14:01:15Z,2024-03-22T14:03:35Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1535681343,1954959189,1535681343,api-server/src/server/boot/user.js,"This is unnecessarily expensive. We should try use Mongo's operators like:
+
+```js
+db.collection('user').updateOne(
+      {},
+      { $pull: { completedChallenges: { id: { $in: ids } } } }
+    );
+```
+
+NOTE: Do not use the above. We should investigate the ""Loopback"" way of doing such a query.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-22T14:28:14Z,2024-03-22T14:28:14Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1536596226,1956343486,1536596226,api-server/src/server/boot/user.js,"Thank you, @ojeytonwilliams, for the insightful review. In line with your suggestions and to address the performance concerns raised, I've implemented **caching** through **lazy loading** for the challenge block lookup. The `challengeMap` is now generated on-demand by `getChallengeMapByBlock` and cached for future use. This approach minimizes redundant computations and ensures that the resource-intensive operation of constructing the challenge map is done just once, enhancing performance for all subsequent requests. You can review these updates in the latest commit [48c22278c6e5d0c3573b1d3638f542267a97da71]
+
+I'm grateful for your valuable feedback - If there are any further improvements or adjustments to consider, please let me know.",RavidYael,https://github.com/RavidYael,2024-03-23T08:34:15Z,2024-03-23T10:20:24Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1536608704,1956356396,1536608704,api-server/src/server/boot/user.js,"Thank you for the review, @ShaunSHamilton. As suggested, I've updated the implementation to use MongoDB's operators efficiently within LoopBack's framework. The function now leverages the `$pull` operator to modify the `completedChallenges` array directly in the database. This approach not only improves performance by reducing the overhead of manual array manipulation in the application layer but also ensures that updates are only made when there are changes to be committed, thus minimizing unnecessary database writes.
+
+These enhancements are part of the latest commit: [34a620b84da16eeb40496456a55f483f32f2e979].
+
+I appreciate your guidance on this enhancement - If there are any further improvements or adjustments to consider, please let me know.
+",RavidYael,https://github.com/RavidYael,2024-03-23T10:15:32Z,2024-03-23T10:22:03Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1536653523,1956399467,1536653523,api-server/src/server/boot/user.js,"As far as I am aware, this is unnecessary, because there is only one user matching the `id: `userId`.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-23T15:56:31Z,2024-03-23T15:59:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1536653696,1956399467,1536653696,api-server/src/server/utils/get-blocks-challenges-mappings.js,"Instead of floating global variables, follow the same pattern we use elsewhere of calling the function in the root of the `boot` setup. We do this a lot in `boot/challenge.js`.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-23T15:57:44Z,2024-03-23T15:59:22Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1536685840,1956429824,1536685840,api-server/src/server/boot/user.js,"Thank you for your feedback, @ShaunSHamilton. My intent with adding the `completedChallenges.id` in the query was to ensure that we only attempt to update the user document if there are actually completed challenges that match the IDs we're looking to reset. This was done to prevent unnecessary write operations, as MongoDB reports a document as ""matched"" and potentially ""modified"" even if the update operation does not result in any actual change to the document.
+
+From my local tests, when using just the `userId` in the query, MongoDB indicated a match (result count = 1) even if there were no `completedChallenges` that matched the `toResetChallengeIds`. This implies that a write operation may still be reported even when no changes were made. By adding `""completedChallenges.id"": { $in: toResetChallengeIds }`, I aimed to ensure that we only match and update user documents where relevant changes are necessary.
+
+If you're aware of a more efficient approach or if my understanding is incorrect, I would very much appreciate your insights.",RavidYael,https://github.com/RavidYael,2024-03-23T20:06:27Z,2024-03-23T20:06:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1536691793,1956434861,1536691793,api-server/src/server/utils/get-blocks-challenges-mappings.js,"Thanks a lot for your feedback, @ShaunSHamilton. It really got me thinking about how we handle global states and inspired me to make some changes to our approach with the `challengeMap`.
+
+I did look into how we do things in `boot/challenge.js` and thought about following that pattern closely. But then, I realized we needed something slightly different for this case. I wanted to create a service that could be used across our codebase without having to rebuild the map every time it's needed. So, I went with a solution where we build the `challengeMap` just once and then use it wherever required. This way, it acts more like a service, ready to provide the map on demand, ensuring we only do the heavy lifting of building it a single time.
+
+I've put these changes into practice, hoping it strikes the right balance between avoiding globals and providing a service that’s easily reusable. It’s all updated and ready for you to take a look. You can check out the service encapsulating design in commit [2e12cc5a63095f31d5998f4c878309e64baaa531] and the usage in commit [8381d82add7343f505d2be787c1c039fcb744bb9].
+
+I really tried to make the best choice for our code’s future flexibility and maintainability. If you have any thoughts or further advice on this, I’m all ears. Your input has been incredibly helpful.
+",RavidYael,https://github.com/RavidYael,2024-03-23T21:00:00Z,2024-03-23T21:00:00Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1537402575,1957432604,1537402575,api-server/src/server/boot/user.js,"Thank you for clarifying. That makes sense. So, provided the correct index is used with the query, this should work well.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-25T10:59:10Z,2024-03-25T10:59:11Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1537548849,1957670549,1537548849,api-server/src/server/utils/get-blocks-challenges-mappings.js,"Thank you. Here is what I suggest:
+1) Move most of the logic into `get-curriculum.js`
+  - Nothing fundamentally different is being done between the current two files
+2) Replace the ""service"" pattern with a simple:
+
+```js
+function getBlockToChallengeIdMap() {
+  // ...
+  return blockToChallengeIdMap;
+}
+
+export const blockToChallengeIdMap = getBlockToChallengeIdMap();
+```
+
+3) Import `blockToChallengeIdMap` into `user.js`
+4) Replace the `try...catch` with a simple index and `undefined` check
+5) Change the `post` request to a `delete` request
+6) Instead of using the url params, expect a JSON body which is an array of blocks
+  - This helps when URLs are length-restricted
+  - This helps when we want to delete more than one block (e.g. a superblock) progress
+ 
+ 
+One final thing about the reason to use `export const blockToChallengeIdMap = [];` instead of `export function getOrGenerateMap() {}` is how the garbage collector might respond to thinking the resource (map) is no longer needed. Personally, I know very little about this. So, maybe V8 is smart enough to understand the permanency of the memory 🤷‍♂️ ",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-25T12:53:39Z,2024-03-25T12:53:39Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1540747941,1962759696,1540747941,api-server/src/server/utils/get-blocks-challenges-mappings.js,"Hey @ShaunSHamilton,
+
+A huge thanks for your insightful feedback! I've carefully reviewed your suggestions and integrated them into our project.
+
+Following your advice:
+- I've consolidated the logic into `get-curriculum.js` and embraced the straightforward approach of directly exporting `blockToChallengeIdMap`.
+  
+- Our endpoint now accepts DELETE requests and expects a JSON body with an array of blocks.
+
+- In terms of error handling, I've moved away from the previous `try...catch` approach in favor of more direct index checks and validations for undefined values.
+
+- I've also given some thought to the construction of our response messages. Understanding its potential value for frontend development, I've encapsulated this message-building logic into a separate function. This strategy is designed to offer us the flexibility to refine our responses as needed, or scale it back effortlessly, depending on our needs as we move towards production.
+
+Your feedback has been incredibly valuable, @ShaunSHamilton.
+If you have any more suggestions or notice anything that might need a re-look, please don't hesitate to let me know. 
+I truly appreciate your guidance and am looking forward to any additional insights you might have.
+
+Thanks again!
+",RavidYael,https://github.com/RavidYael,2024-03-27T09:32:13Z,2024-03-27T09:32:13Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541388070,1963769889,1541388070,api-server/src/server/boot/user.js,"
+```suggestion
+    const isSendBlocks = blocks && Array.isArray(blocks) && blocks.length > 0;
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T15:55:24Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541393785,1963769889,1541393785,api-server/src/server/boot/user.js,"
+```suggestion
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T15:58:54Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541394085,1963769889,1541394085,api-server/src/server/boot/user.js,"
+```suggestion
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T15:59:05Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541398235,1963769889,1541398235,api-server/src/server/boot/user.js,"
+```suggestion
+    const toResetChallengeIds = [];
+    const undefinedBlocks = [];
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T16:00:56Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541422720,1963769889,1541422720,api-server/src/server/boot/user.js,"
+```suggestion
+
+isHasValidBlockToReset = toResetChallengeIds.length > 0;
+
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T16:14:48Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541428861,1963769889,1541428861,api-server/src/server/boot/user.js,"The status code should probably be a `204` if there were no issues deleting any of the block data.
+
+Otherwise, the status code should be related to the `message`",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T16:18:27Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541432633,1963769889,1541432633,api-server/src/server/boot/user.js,"The `message` should be something like `""flash.<message-short-name>""` (as seen in other routes), and the message short name should be added to the `client/i18n/locales/english/translations.json` file.
+
+Also, these messages should be something the Camper (user) should read - not something mentioning ""user""",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T16:20:22Z,2024-03-27T16:21:55Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541472347,1963902865,1541472347,api-server/src/server/boot/user.js,"Thanks for the insight, @ShaunSHamilton!
+
+Your suggestion sparked a valuable reflection on the role of messages in our system. While I initially didn’t design certain messages with direct user interaction in mind—drawing from `postResetProgress` as a precedent—I see the potential benefits of crafting user-friendly messages where appropriate.
+
+I understand the importance of the ""flash.<message-short-name>"" pattern and integrating it with our `client/i18n/locales/english/translations.json` for a seamless user experience. However, in my opinion, not all messages may suit direct user communication. For instance, messages like ""No blocks were provided for the reset operation."" or ""No challenges found for the following blocks: ${undefinedBlocks.join(', ')}"" are more aligned with development feedback than user interaction.
+
+Thanks again for your guidance on this!
+I’m diving into this with a focus on balancing usability with informative feedback, and I’m open to any further suggestions you might have along the way.",RavidYael,https://github.com/RavidYael,2024-03-27T16:41:48Z,2024-03-27T17:30:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541526582,1963987824,1541526582,api-server/src/server/boot/user.js,"Thanks for the suggestion, @ShaunSHamilton! I've updated the code for isHasValidBlockToReset = toResetChallengeIds.length > 0 as recommended.",RavidYael,https://github.com/RavidYael,2024-03-27T17:18:25Z,2024-03-28T17:33:09Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541527583,1963988789,1541527583,api-server/src/server/boot/user.js,"Appreciate the suggestion on improving code's readability and logic, @ShaunSHamilton! I've given thought to moving the `isHasValidBlockToReset = toResetChallengeIds.length > 0;` condition into the `if` scope as you recommended.
+
+However, we encounter a scope limitation with this approach. The variable `isHasValidBlockToReset` needs to be accessible outside of the `if` scope, specifically when we're constructing the response message later in the function.",RavidYael,https://github.com/RavidYael,2024-03-27T17:18:36Z,2024-03-27T17:18:36Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1541838842,1964439391,1541838842,api-server/src/server/boot/user.js,"Sorry, I did not mean to make this suggestion. The other related change is still valid, though.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-27T18:52:06Z,2024-03-27T18:52:06Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1543348887,1966820482,1543348887,api-server/src/server/boot/user.js,"Thanks for the suggestion, @ShaunSHamilton! I've updated the code for isSendBlocks as recommended.",RavidYael,https://github.com/RavidYael,2024-03-28T17:17:57Z,2024-03-28T17:18:46Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1543359703,1966833446,1543359703,api-server/src/server/boot/user.js,"Thanks for the feedback, @ShaunSHamilton! I've adjusted the status codes to reflect the outcome of the operations. For successful resets without any issues, I’ve set the status code to 204 as suggested. The other status codes have been aligned with the corresponding conditions in the response message.",RavidYael,https://github.com/RavidYael,2024-03-28T17:24:32Z,2024-03-28T17:24:32Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1543366047,1966843231,1543366047,api-server/src/server/boot/user.js,"Thanks again, @ShaunSHamilton!
+
+Reflecting on our conversation, I've implemented a clear distinction between messages for development (`devMessage`) and user-facing messages (`message`) in our responses. This approach allows us to provide immediate, actionable feedback to developers while maintaining a polished, user-centric experience in production.
+
+For instance, development messages like ""No blocks were provided for the reset operation."" provide direct feedback to us during debugging and development. At the same time, the user-facing messages adhere to the `flash.reset-progress.unexpected-error` convention, ensuring we are ready for a smooth integration with user interfaces.
+
+I've made sure that the development messages can be toggled off or omitted altogether in a production environment to keep the user experience clean and focused.
+
+Would love to hear your thoughts on this approach. I’m all about making sure our system communicates effectively with both our users and our developers.
+",RavidYael,https://github.com/RavidYael,2024-03-28T17:29:24Z,2024-03-28T17:29:24Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1543368113,1966846649,1543368113,api-server/src/server/boot/user.js,"Thanks for the suggestion, @ShaunSHamilton! I've updated the code as recommended.",RavidYael,https://github.com/RavidYael,2024-03-28T17:31:13Z,2024-03-28T17:31:13Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1543369845,1966849499,1543369845,api-server/src/server/boot/user.js,"Thanks for the suggestion, @ShaunSHamilton!  I've updated the code for isHasValidBlockToReset = toResetChallengeIds.length > 0 as recommended.",RavidYael,https://github.com/RavidYael,2024-03-28T17:32:45Z,2024-03-28T17:32:45Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1545267452,1969883701,1545267452,api-server/src/server/boot/user.js,"```suggestion
+  const deleteResetProjectProgress = createDeleteResetProjectProgress(app);
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-30T10:25:30Z,2024-03-30T11:24:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1545267579,1969883701,1545267579,api-server/src/server/boot/user.js,"```suggestion
+  api.delete('/account/reset-progress/', ifNoUser401, deleteResetProjectProgress);
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-30T10:26:35Z,2024-03-30T11:24:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1545267633,1969883701,1545267633,api-server/src/server/boot/user.js,"```suggestion
+function createDeleteResetProjectProgress(app) {
+  return async function deleteResetProjectProgress(req, res, next) {
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-30T10:26:59Z,2024-03-30T11:24:08Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1545295992,1969891859,1545295992,api-server/src/server/utils/get-curriculum.js,"**Leaving as a comment for post-pr discussion**
+
+This includes the certifications as ""blocks"". So, Campers could ""unclaim"" certifications with this endpoint. Seems like an ok ""feature"", but I am not sure this is what we want.",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-30T11:24:47Z,2024-03-30T11:24:48Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1629511680,2101911158,1629511680,client/i18n/locales/english/translations.json,"```suggestion
+        ""unexpected-error"": ""Something went wrong trying to reset your progress.""
+```",moT01,https://github.com/moT01,2024-06-06T13:12:19Z,2024-06-06T13:49:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54182
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1590995410,2040752492,1590995410,client/src/templates/Introduction/components/block.tsx,"```suggestion
+import ChallengeBlock from './challenge-block';
+```
+Aliasing doesn't seem useful here.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-05-06T13:11:46Z,2024-05-06T13:47:27Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1590996993,2040752492,1590996993,client/src/templates/Introduction/components/block.tsx,"```suggestion
+              <ChallengeBlock
+```",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-05-06T13:13:08Z,2024-05-06T13:47:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1590997106,2040752492,1590997106,client/src/templates/Introduction/components/block.tsx,"```suggestion
+            <ChallengeBlock
+```",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-05-06T13:13:15Z,2024-05-06T13:47:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1591009291,2040752492,1591009291,client/src/templates/Introduction/components/challenge-or-project-nodes-list.tsx,"```suggestion
+                node.isCompleted ? 'challenge-completed' : ''
+```
+I know this was in `challenges.tsx`, but we might as well clean it up.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-05-06T13:23:03Z,2024-05-06T13:47:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1591019608,2040752492,1591019608,client/src/templates/Introduction/components/project-node-tile.tsx,"I'm not sure ""Tile"" is the best name for this. My understanding is that a ""Tile"" is generally used to describe a generic building block in a design system. We may want to build such a thing in the UI components library, but I don't think it belongs here. cc @huyenltnguyen 
+
+Perhaps just `ProjectLink` would be fine.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-05-06T13:31:12Z,2024-05-06T13:47:28Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1593850704,2045351849,1593850704,client/src/templates/Introduction/components/project-node-tile.tsx,"![image](https://github.com/freeCodeCamp/freeCodeCamp/assets/88036623/8f6549ab-dfc1-4c47-9c2f-c3552d9cf2b9)
+
+Thank you for your input! The elements in the `ChallengeOrProjectNodesList` visually represent distinct steps or milestones within a project, each functioning as a tile in the design, similar to modular steps. 
+Since they represent different stages in achieving a challenge or project, the term ""Tile"" feels appropriate for describing this functionality in the component name. That said, if a more descriptive name add clarity, I'm open to discussing and adopting a better alternative.
+
+",RavidYael,https://github.com/RavidYael,2024-05-08T11:06:41Z,2024-05-08T11:12:32Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1595170446,2047481729,1595170446,client/src/templates/Introduction/components/project-node-tile.tsx,"That's fair. Inspiration isn't coming to me, so how about simply `ProjectTile`?
+
+If @huyenltnguyen thinks this is a good candidate for the UI components library, we can move it there, but I'm happy to go with this for now.",ojeytonwilliams,https://github.com/ojeytonwilliams,2024-05-09T08:54:51Z,2024-05-09T08:54:52Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1595203140,2047539124,1595203140,client/src/templates/Introduction/components/project-node-tile.tsx,"I agree, `ProjectTile` sounds like a fitting name. If @huyenltnguyen believes it’s a good fit for the UI components library, we can consider moving it there. For now, let’s go with ‘ProjectTile’ and remain open to adjustments as needed. Thanks for the suggestion!",RavidYael,https://github.com/RavidYael,2024-05-09T09:25:36Z,2024-05-15T12:43:17Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1621279146,2089132252,1621279146,client/src/templates/Introduction/components/challenge-tiles-list.tsx,"```suggestion
+```",moT01,https://github.com/moT01,2024-05-30T18:43:13Z,2024-05-30T19:36:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1621280873,2089132252,1621280873,client/src/templates/Introduction/components/challenge-tiles-list.tsx,"```suggestion
+import { ProgressionTilesWithCompleted } from '../../../redux/prop-types';
+```",moT01,https://github.com/moT01,2024-05-30T18:43:49Z,2024-05-30T19:36:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1621285550,2089132252,1621285550,client/src/templates/Introduction/components/challenge-or-project-tiles-list.tsx,"```suggestion
+import { challengeTypes } from '../../../../../shared/config/challenge-types';
+import { ProgressionTilesWithCompleted } from '../../../redux/prop-types';
+```",moT01,https://github.com/moT01,2024-05-30T18:47:36Z,2024-05-30T19:36:18Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1621286687,2089132252,1621286687,client/src/templates/Introduction/components/project-tile.tsx,"```suggestion
+import { ProgressionTilesWithCompleted } from '../../../redux/prop-types';
+```",moT01,https://github.com/moT01,2024-05-30T18:48:41Z,2024-05-30T19:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1621287186,2089132252,1621287186,client/src/templates/Introduction/intro.css,"```suggestion
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+```",moT01,https://github.com/moT01,2024-05-30T18:49:11Z,2024-05-30T19:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1621332292,2089132252,1621332292,client/src/templates/Introduction/components/challenge-or-project-tiles-list.tsx,"```suggestion
+> = ({ tiles, isProject, getStepNumber, t }) => {
+```",moT01,https://github.com/moT01,2024-05-30T19:24:03Z,2024-05-30T19:36:19Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/54028
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1514014741,1919041054,1514014741,sample.env,"
+```suggestion
+MAX_REQUEST_LIMIT=30
+REDIS_HOST=localhost
+
+# Email
+# use ses in production
+EMAIL_PROVIDER=nodemailer
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-06T08:22:40Z,2024-03-06T09:04:56Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/53971
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1514033320,1919041054,1514033320,api/src/utils/env.ts,"
+```suggestion
+export const MAX_REQUEST_LIMIT = Math.abs(parseInt(process.env.MAX_REQUEST_LIMIT));
+assert.ok(!Number.isNaN(MAX_REQUEST_LIMIT));
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-06T08:37:09Z,2024-03-06T09:04:56Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/53971
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1514035115,1919041054,1514035115,api/src/app.ts,"
+```suggestion
+  rateLimitTesting = false
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-06T08:38:35Z,2024-03-06T09:04:56Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/53971
+https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/comments/1514035975,1919041054,1514035975,api/src/app.ts,"
+```suggestion
+        if (req.session?.user) {
+```",ShaunSHamilton,https://github.com/ShaunSHamilton,2024-03-06T08:39:11Z,2024-03-06T09:04:56Z,https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls/53971
