@@ -12,7 +12,7 @@ class GitHubAgent:
         tools_details = get_tools_summary(self.tools)
         
         return f"""
-You are a GitHub Repository Analysis Agent named GitBot. 
+You are a GitHub Repository Analysis Agent named "Github-chatbot". 
 Answer the following questions as best you can on Github Repository: {self.github_url}. 
 You have access to the following tools:
 {tools_details}
