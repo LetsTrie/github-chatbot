@@ -23,19 +23,13 @@ Follow these instructions to set up the development environment.
    poetry shell
    ```
 
-4. **Configure Jupyter kernel**:
-   ```bash
-   ipython kernel install --user --name=gitbot
-   ```
-
 ## Running the Program
 
-1. **Start Jupyter Notebook**:
-   ```bash
-   jupyter notebook
-   ```
+After setting up the environment, run the following command:
 
-2. **Select the `gitbot` kernel** in the notebook.
+   ```bash
+   sh run.sh
+   ```
 
 ## Environment Variables
 
@@ -44,4 +38,5 @@ Create a `.env` file in the project root with the following:
 ```
 OPENAI_API_KEY=<your-openai-api-key>
 GITHUB_ACCESS_TOKEN=<your-github-access-token>
+ENVIRONMENT=<dev/prod>
 ```
