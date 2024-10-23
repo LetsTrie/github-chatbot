@@ -1,5 +1,5 @@
 
-# GitBot
+# Github Chatbot
 
 Follow these instructions to set up the development environment.
 
@@ -7,8 +7,8 @@ Follow these instructions to set up the development environment.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/LetsTrie/gitbot.git
-   cd gitbot
+   git clone https://github.com/LetsTrie/github-chatbot.git
+   cd github-chatbot
    ```
 
 2. **Set up Poetry**:
