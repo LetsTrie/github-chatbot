@@ -1,0 +1,9 @@
+{
+  "repo_urls": [
+    "https://github.com/LetsTrie/github-chatbot",
+    "https://github.com/freeCodeCamp/freeCodeCamp"
+  ],
+  "query": [
+    "generate a repo summary"
+  ]
+}

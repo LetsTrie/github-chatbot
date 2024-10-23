@@ -13,6 +13,7 @@ setup_logger(os.getenv('ENVIRONMENT', 'dev'))
 
 if __name__ == "__main__":
     # git_url = input("Please provide a github repository URL: ")
+    # git_url = "https://github.com/LetsTrie/github-chatbot"
     git_url = "https://github.com/freeCodeCamp/freeCodeCamp"
     
     github_url_manager = GithubUrlManager()
@@ -20,7 +21,7 @@ if __name__ == "__main__":
     
     github_agent = GitHubAgent(git_url)
     github_agent_prompt = github_agent.create_prompt()
-    
+
     query = Agent(github_agent_prompt)
     
     asyncio.run(chat(query))

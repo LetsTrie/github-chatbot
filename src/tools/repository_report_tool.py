@@ -5,6 +5,7 @@ async def repository_report_exec() -> dict:
     """
     Fetch the repository report. Always show as a list in markdown and end with a summary.
     """
+    print("Calling \"repository_report_tool.\"...")
     repository = await get_repository()
     return {
         "data": repository

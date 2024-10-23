@@ -14,11 +14,25 @@ async def chat(query):
         result = ""
 
         is_primary_query = True
+        
+        index = 1
         max_iteration = 5
         while max_iteration != 0:
             max_iteration -= 1
+            if index != 1:
+                print("\n")
+                
+            print("****************************************************")
+            print(f"iteration: {index}")
+            print("****************************************************")
+            print(f"prompt: {next_prompt}")
+            
+            index += 1
             
             result = query(next_prompt, is_primary_query)
+            print("\n>>>>> Model Response: >>>>>>>>>>>>>>>>>>>>>>>")
+            print(result)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
             is_primary_query = False
 
             parser = parse_and_validate_output(result)
@@ -40,6 +54,11 @@ async def chat(query):
     
             else:
                 break
-    
-        print("Git-Bot:", result)
+            
+        print("\n" + "="*40)
+        print("|{:^38}|".format("FINAL ANSWER"))
+        print("="*40)
+        print(f"\n{result:^40}")
+        print("="*40 + "\n")
+        
         query.finalize()

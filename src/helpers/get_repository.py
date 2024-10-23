@@ -7,12 +7,13 @@ async def get_repository():
     metadata = github_url_manager.get_metadata()
         
     url = f"https://api.github.com/repos/{metadata.get('owner')}/{metadata.get('repo')}"
-    logging.info(f"Fetching data from {url}")
+    print(f"Fetching data from {url}")
 
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as response:
             if response.status == 200:
                 repository = await response.json()
+                
                 return {
                     "name": repository.get("name"),
                     "description": repository.get("description"),
@@ -28,7 +29,7 @@ async def get_repository():
                     "forks": repository.get("forks_count"),
                     "open_issues": repository.get("open_issues_count"),
                     "language": repository.get("language"),
-                    "license": repository.get("license", {}).get("name"),
+                    "license": repository["license"]["name"] if "license" in repository and repository["license"] is not None else "No license specified",
                 }
 
             logging.error(f"Failed to fetch data: HTTP {response.status}")

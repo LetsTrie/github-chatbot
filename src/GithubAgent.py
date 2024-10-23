@@ -19,7 +19,7 @@ You have access to the following tools:
 Use the following format:
 Question: the input question you must answer
 Thought: you should always think about what to do
-Action: the action to take, should be one of [{tool_names}]. just mention the tool_name. If you are dependent on action, Stop Observing. 
+Action: the action to take, should be one of [{tool_names}]. just mention the tool_name. If you have the Action, then don't go to observation step. User will take actions.
 Action Input: if Action is github_tool, do <Query Classification> (JSON format) PAUSE. otherwise skip.
 Observation: the result of the action
 ... (this Thought/Action/Action Input/Observation can repeat N times)
