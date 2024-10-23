@@ -96,6 +96,8 @@ class Agent:
         if current_chunk:
             chunks.append(current_chunk)
 
+        print(f"Total number of chunks: {len(chunks)}")
+        
         return chunks
 
     def finalize(self):

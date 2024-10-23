@@ -1,7 +1,5 @@
 from enum import Enum
 
-
-
 def get_tools_summary(tools):
     details = "\n===========\n"
     for tool in tools:
@@ -10,10 +8,6 @@ def get_tools_summary(tools):
         details += f"Tool Name: {tool.name}\n"
         details += f"Tool description: {tool.description}\n"
         details += f"Arguments:\n" if len(tool_args) > 0 else f"No Arguments\n"
-
-# name='endpoint' type=Optional[EndpointEnum] required=False default=None
-# Description: ....
-# Enum values: ['commits', 'pulls', 'issues']
 
         for field_name, field_info in tool_args:
             field_annotation = field_info.annotation  

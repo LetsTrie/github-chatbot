@@ -27,7 +27,8 @@ class GithubToolInput(BaseModel):
     scope: Optional[ScopeEnum] = Field(None, description="Scope of the query ('count', 'single_document', 'multiple_documents').")
     state: Optional[StateEnum] = Field(None, description="State of the pull requests/issues ('open', 'closed', 'all').")
     limit: Optional[int] = Field(None, description="Maximum number of items to retrieve.")
-    since: Optional[str] = Field(None, description="Date range since format '{{number}}{{h/d/m/y}}' (e.g., '7d' for last 7 days).")
+    since: Optional[str] = Field(None, description="Only show results that were last updated after the given time. Date format: YYYY-MM-DDTHH:MM:SSZ")
+    until: Optional[str] = Field(None, description="Only show results that were last updated before the given time. Date format: YYYY-MM-DDTHH:MM:SSZ")
     author: Optional[str] = Field(None, description="Author's username to filter items.")
 
 async def github_exec(args: GithubToolInput) -> dict:    
@@ -46,7 +47,7 @@ async def github_exec(args: GithubToolInput) -> dict:
     since  = args.get("since") 
     author  = args.get("author") 
     
-    since = format_since_datetime(since)   
+    # since = format_since_datetime(since)   
     per_page = min(10, int(limit)) if limit is not None else 10
 
     params = {}

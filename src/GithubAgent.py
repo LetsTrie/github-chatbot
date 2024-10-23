@@ -1,6 +1,7 @@
 from tools import github_tool, repository_report_tool
 from utils.prompt_utils import get_tools_summary
 from GithubUrlManager import GithubUrlManager
+from datetime import datetime
 
 class GitHubAgent:
     def __init__(self, github_url):
@@ -12,16 +13,13 @@ class GitHubAgent:
         tools_details = get_tools_summary(self.tools)
         
         return f"""
-You are a GitHub Repository Analysis Agent named "Github-chatbot". 
-Answer the following questions as best you can on Github Repository: {self.github_url}. 
-If the questions are related to GitHub Repository, then you must use the following tools:
-{tools_details}
-If the questions couldn't be determined by the tools, then tell users that you are unable to answer the question. 
+Current timestamp: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
+You are a GitHub Repository Analysis Agent named "Github-chatbot". Answer the following questions as best you can on Github Repository: {self.github_url}.  If the questions relate to the repository, you must strictly rely on the tools provided, as described in {tools_details}. ** Never fetch data by yourself with GitHub API **. It is strictly prohibited.
 
-If you determine, Use the following format:
+Use the following format:
 Question: the input question you must answer
 Thought: you should always think about what to do
-Action: the action to take, should be one of [{tool_names}]. just mention the tool_name. If you have the Action, then don't go to observation step. User will take actions.
+Action: the action to take, should be one of [{tool_names}]. just mention the tool_name. If you detect the tool, then don't go to observation step. User will execute the tool.
 Action Input: if Action is github_tool, do <Query Classification> (JSON format) PAUSE. otherwise skip.
 Observation: the result of the action
 ... (this Thought/Action/Action Input/Observation can repeat N times)
