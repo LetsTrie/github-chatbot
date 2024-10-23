@@ -22,6 +22,8 @@ if __name__ == "__main__":
     github_agent = GitHubAgent(git_url)
     github_agent_prompt = github_agent.create_prompt()
 
+    print(f"System Prompt: {github_agent_prompt}")
+    
     query = Agent(github_agent_prompt)
     
     asyncio.run(chat(query))

@@ -2,9 +2,10 @@ from enum import Enum
 from typing import Optional
 from langchain.tools import tool
 from langchain.tools.base import StructuredTool
-from langchain.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 from helpers.core import get_count, get_multiple_documents
 from utils.datetime import format_since_datetime
+import json
 
 class EndpointEnum(str, Enum):
     commits = "commits"
@@ -29,14 +30,16 @@ class GithubToolInput(BaseModel):
     since: Optional[str] = Field(None, description="Date range since format '{{number}}{{h/d/m/y}}' (e.g., '7d' for last 7 days).")
     author: Optional[str] = Field(None, description="Author's username to filter items.")
 
-async def github_exec(args: GithubToolInput) -> dict:
+async def github_exec(args: GithubToolInput) -> dict:    
     """
     This tool interacts with the GitHub API to retrieve various types of data from a repository. 
-    It can fetch information about commits, pull requests, or issues, and can either count items, retrieve multiple items, or get details of a single item.
-    (To use this tool, query must be classified as per the description of the function arguments.)
+    It can fetch information about commits, pull requests, or issues, and can either count items, retrieve multiple items, or get details of a single item. (To use this tool, query must be classified as per the description of the function arguments.)
     """
+    
+    print("Calling \"github_tool.\"...")
 
     action = args.get("action")
+    print("Action: ", action)
     scope  = args.get("scope") 
     state  = args.get("state") 
     limit  = args.get("limit") 

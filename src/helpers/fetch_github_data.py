@@ -10,7 +10,7 @@ async def fetch_github_data(endpoint, params=None):
     url = f"https://api.github.com/repos/{metadata['owner']}/{metadata['repo']}/{endpoint}"
     
     headers = {
-        "Authorization": f"Bearer {os.environ.get("GITHUB_ACCESS_TOKEN")}",
+        # "Authorization": f"Bearer {os.environ.get("GITHUB_ACCESS_TOKEN")}",
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28"
     }
@@ -22,7 +22,7 @@ async def fetch_github_data(endpoint, params=None):
 
     params.update({"per_page": per_page})
 
-    logging.info(f"Fetching data from {url} with params: {params}")
+    print(f"Fetching data from {url} with params: {params}")
     
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=headers, params=params) as response:

@@ -4,6 +4,7 @@
     "https://github.com/freeCodeCamp/freeCodeCamp"
   ],
   "query": [
-    "generate a repo summary"
+    "generate a repo summary",
+    "How many commits were made in the last week?"
   ]
 }

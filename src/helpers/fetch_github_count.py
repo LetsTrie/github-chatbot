@@ -10,7 +10,7 @@ async def fetch_github_count(endpoint, params=None):
     url = f"https://api.github.com/repos/{metadata.get('owner')}/{metadata.get('repo')}/{endpoint}"
 
     headers = {
-        "Authorization": f"Bearer {os.environ.get("GITHUB_ACCESS_TOKEN")}",
+        # "Authorization": f"Bearer {os.environ.get("GITHUB_ACCESS_TOKEN")}",
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28"
     }
@@ -20,13 +20,14 @@ async def fetch_github_count(endpoint, params=None):
 
     params.update({"per_page": 1})
 
-    logging.info(f"Fetching count from {url} with params: {params}")
+    print(f"Fetching count from {url} with params: {params}")
 
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=headers, params=params) as response:
             if response.status != 200:
                 logging.error(f"Failed to fetch count: HTTP {response.status}")
                 logging.error(f"Response text: {await response.text()}")
+                logging.error(f"headers: {headers}")
                 return None
 
             if "Link" in response.headers:
