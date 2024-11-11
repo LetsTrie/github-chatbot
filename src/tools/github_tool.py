@@ -45,7 +45,8 @@ async def github_exec(args: GithubToolInput) -> dict:
     state  = args.get("state") 
     limit  = args.get("limit") 
     since  = args.get("since") 
-    author  = args.get("author") 
+    author = args.get("author")
+    until  = args.get("until")
     
     # since = format_since_datetime(since)   
     per_page = min(10, int(limit)) if limit is not None else 10
@@ -57,6 +58,8 @@ async def github_exec(args: GithubToolInput) -> dict:
         params["state"] = state
     if isinstance(since, str):
         params["since"] = since
+    if isinstance(until, str):
+        params["until"] = until
 
     if scope == "count":
         count = await get_count(action, params)

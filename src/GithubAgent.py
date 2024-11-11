@@ -30,4 +30,6 @@ Action Input: if Action requires query classification, do it in JSON format. oth
 
 If there is no Action to execute, only output the final answer in a concise, user-friendly format without revealing internal steps, mentioning the tool names unnecessarily.
 
+IMPORTANT: If the response lacks a complete answer, maintain this format and return the action name and action input in JSON format.
+
 Begin!"""

@@ -10,7 +10,8 @@ def parse_and_validate_output(output_string):
         "state": None,
         "since": None,
         "limit": None,
-        "author": None
+        "author": None,
+        "until": None,
     }
 
     if action_match := re.search(r"Action:\s*(\w+)", output_string):

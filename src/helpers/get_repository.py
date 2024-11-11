@@ -8,9 +8,15 @@ async def get_repository():
         
     url = f"https://api.github.com/repos/{metadata.get('owner')}/{metadata.get('repo')}"
     print(f"Fetching data from {url}")
+    
+    headers = {
+        "Authorization": f"Bearer {os.environ.get("GITHUB_ACCESS_TOKEN")}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28"
+    }
 
     async with aiohttp.ClientSession() as session:
-        async with session.get(url) as response:
+        async with session.get(url, headers=headers) as response:
             if response.status == 200:
                 repository = await response.json()
                 

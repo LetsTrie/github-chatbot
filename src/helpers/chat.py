@@ -36,6 +36,9 @@ async def chat(query):
             is_primary_query = False
 
             parser = parse_and_validate_output(result)
+            print("\n>>>>> Parser Response: >>>>>>>>>>>>>>>>>>>>>>>")
+            print(parser)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n")
             
             if parser["action"] == "github_tool":
                 data = await github_tool.coroutine({
@@ -44,7 +47,8 @@ async def chat(query):
                     "state" : parser.get("state"), 
                     "limit"  : parser.get("limit"), 
                     "since"  : parser.get("since"), 
-                    "author" : parser.get("author")
+                    "author" : parser.get("author"),
+                    "until" : parser.get("until"),
                 })
                 next_prompt = json.dumps(data)
     
